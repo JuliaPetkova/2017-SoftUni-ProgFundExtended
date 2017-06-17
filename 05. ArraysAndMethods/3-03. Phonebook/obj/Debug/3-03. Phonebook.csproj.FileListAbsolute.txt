@@ -1,0 +1,6 @@
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\05. ArraysAndMethods\3-03. Phonebook\bin\Debug\_3_03.Phonebook.exe.config
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\05. ArraysAndMethods\3-03. Phonebook\bin\Debug\_3_03.Phonebook.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\05. ArraysAndMethods\3-03. Phonebook\bin\Debug\_3_03.Phonebook.pdb
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\05. ArraysAndMethods\3-03. Phonebook\obj\Debug\3-03. Phonebook.csprojResolveAssemblyReference.cache
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\05. ArraysAndMethods\3-03. Phonebook\obj\Debug\_3_03.Phonebook.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\05. ArraysAndMethods\3-03. Phonebook\obj\Debug\_3_03.Phonebook.pdb

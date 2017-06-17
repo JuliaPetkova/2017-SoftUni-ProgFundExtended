@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3-01. Last 3 Consecutive Eq
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3-02. Array Elements Equal to Their Index", "3-02. Array Elements Equal to Their Index\3-02. Array Elements Equal to Their Index.csproj", "{AB56D340-E7F0-4B2A-AAAA-166814E581B4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3-03. Phonebook", "3-03. Phonebook\3-03. Phonebook.csproj", "{C87CBF8D-10D7-4786-9F17-28A5784C9E10}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{AB56D340-E7F0-4B2A-AAAA-166814E581B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AB56D340-E7F0-4B2A-AAAA-166814E581B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AB56D340-E7F0-4B2A-AAAA-166814E581B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C87CBF8D-10D7-4786-9F17-28A5784C9E10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C87CBF8D-10D7-4786-9F17-28A5784C9E10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C87CBF8D-10D7-4786-9F17-28A5784C9E10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C87CBF8D-10D7-4786-9F17-28A5784C9E10}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
