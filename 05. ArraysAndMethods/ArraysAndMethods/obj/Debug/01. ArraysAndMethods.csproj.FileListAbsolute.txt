@@ -1,0 +1,6 @@
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\05. ArraysAndMethods\ArraysAndMethods\bin\Debug\ArraysAndMethods.exe.config
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\05. ArraysAndMethods\ArraysAndMethods\bin\Debug\ArraysAndMethods.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\05. ArraysAndMethods\ArraysAndMethods\bin\Debug\ArraysAndMethods.pdb
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\05. ArraysAndMethods\ArraysAndMethods\obj\Debug\01. ArraysAndMethods.csprojResolveAssemblyReference.cache
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\05. ArraysAndMethods\ArraysAndMethods\obj\Debug\ArraysAndMethods.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\05. ArraysAndMethods\ArraysAndMethods\obj\Debug\ArraysAndMethods.pdb
