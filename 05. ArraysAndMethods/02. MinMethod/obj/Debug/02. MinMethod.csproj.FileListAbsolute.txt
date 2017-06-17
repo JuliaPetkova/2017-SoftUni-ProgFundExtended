@@ -1,0 +1,1 @@
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\05. ArraysAndMethods\02. MinMethod\obj\Debug\02. MinMethod.csprojResolveAssemblyReference.cache

@@ -3,7 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26430.13
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. ArraysAndMethods", "ArraysAndMethods\01. ArraysAndMethods.csproj", "{9D7E331A-7B45-46F7-B9B5-9BEFB63268B9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2-01. ArraysAndMethods", "ArraysAndMethods\2-01. ArraysAndMethods.csproj", "{9D7E331A-7B45-46F7-B9B5-9BEFB63268B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2-02. MinMethod", "02. MinMethod\2-02. MinMethod.csproj", "{7CF3BA68-DC7E-46E2-94D7-6BD3DD504281}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2-03. SrtingRepeater", "03. SrtingRepeater\2-03. SrtingRepeater.csproj", "{50A10067-CA04-4AAE-BC7E-DB1587DEDEFB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2-04. NthDigit", "04. NthDigit\2-04. NthDigit.csproj", "{C34867A2-7DF2-4BE7-A828-D34280B819A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3-01. Last 3 Consecutive Equal Strings", "3-01. Last 3 Consecutive Equal Strings\3-01. Last 3 Consecutive Equal Strings.csproj", "{59BA7DCE-62C7-4C5A-9730-D3463DD9C36A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3-02. Array Elements Equal to Their Index", "3-02. Array Elements Equal to Their Index\3-02. Array Elements Equal to Their Index.csproj", "{AB56D340-E7F0-4B2A-AAAA-166814E581B4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +25,26 @@ Global
 		{9D7E331A-7B45-46F7-B9B5-9BEFB63268B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9D7E331A-7B45-46F7-B9B5-9BEFB63268B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9D7E331A-7B45-46F7-B9B5-9BEFB63268B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CF3BA68-DC7E-46E2-94D7-6BD3DD504281}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CF3BA68-DC7E-46E2-94D7-6BD3DD504281}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CF3BA68-DC7E-46E2-94D7-6BD3DD504281}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CF3BA68-DC7E-46E2-94D7-6BD3DD504281}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50A10067-CA04-4AAE-BC7E-DB1587DEDEFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50A10067-CA04-4AAE-BC7E-DB1587DEDEFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50A10067-CA04-4AAE-BC7E-DB1587DEDEFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50A10067-CA04-4AAE-BC7E-DB1587DEDEFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C34867A2-7DF2-4BE7-A828-D34280B819A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C34867A2-7DF2-4BE7-A828-D34280B819A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C34867A2-7DF2-4BE7-A828-D34280B819A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C34867A2-7DF2-4BE7-A828-D34280B819A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59BA7DCE-62C7-4C5A-9730-D3463DD9C36A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59BA7DCE-62C7-4C5A-9730-D3463DD9C36A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59BA7DCE-62C7-4C5A-9730-D3463DD9C36A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59BA7DCE-62C7-4C5A-9730-D3463DD9C36A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB56D340-E7F0-4B2A-AAAA-166814E581B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB56D340-E7F0-4B2A-AAAA-166814E581B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB56D340-E7F0-4B2A-AAAA-166814E581B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB56D340-E7F0-4B2A-AAAA-166814E581B4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

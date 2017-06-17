@@ -1,0 +1,6 @@
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\05. ArraysAndMethods\3-01. Last 3 Consecutive Equal Strings\bin\Debug\_3_01.Last_3_Consecutive_Equal_Strings.exe.config
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\05. ArraysAndMethods\3-01. Last 3 Consecutive Equal Strings\bin\Debug\_3_01.Last_3_Consecutive_Equal_Strings.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\05. ArraysAndMethods\3-01. Last 3 Consecutive Equal Strings\bin\Debug\_3_01.Last_3_Consecutive_Equal_Strings.pdb
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\05. ArraysAndMethods\3-01. Last 3 Consecutive Equal Strings\obj\Debug\3-01. Last 3 Consecutive Equal Strings.csprojResolveAssemblyReference.cache
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\05. ArraysAndMethods\3-01. Last 3 Consecutive Equal Strings\obj\Debug\_3_01.Last_3_Consecutive_Equal_Strings.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\05. ArraysAndMethods\3-01. Last 3 Consecutive Equal Strings\obj\Debug\_3_01.Last_3_Consecutive_Equal_Strings.pdb

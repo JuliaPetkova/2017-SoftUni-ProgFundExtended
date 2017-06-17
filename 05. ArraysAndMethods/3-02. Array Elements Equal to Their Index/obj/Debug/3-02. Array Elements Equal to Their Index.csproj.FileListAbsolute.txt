@@ -1,0 +1,5 @@
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\05. ArraysAndMethods\3-02. Array Elements Equal to Their Index\bin\Debug\_3_02.Array_Elements_Equal_to_Their_Index.exe.config
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\05. ArraysAndMethods\3-02. Array Elements Equal to Their Index\bin\Debug\_3_02.Array_Elements_Equal_to_Their_Index.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\05. ArraysAndMethods\3-02. Array Elements Equal to Their Index\bin\Debug\_3_02.Array_Elements_Equal_to_Their_Index.pdb
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\05. ArraysAndMethods\3-02. Array Elements Equal to Their Index\obj\Debug\_3_02.Array_Elements_Equal_to_Their_Index.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\05. ArraysAndMethods\3-02. Array Elements Equal to Their Index\obj\Debug\_3_02.Array_Elements_Equal_to_Their_Index.pdb

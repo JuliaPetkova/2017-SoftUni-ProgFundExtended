@@ -1,0 +1,6 @@
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\05. ArraysAndMethods\04. NthDigit\bin\Debug\_04.NthDigit.exe.config
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\05. ArraysAndMethods\04. NthDigit\bin\Debug\_04.NthDigit.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\05. ArraysAndMethods\04. NthDigit\bin\Debug\_04.NthDigit.pdb
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\05. ArraysAndMethods\04. NthDigit\obj\Debug\04. NthDigit.csprojResolveAssemblyReference.cache
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\05. ArraysAndMethods\04. NthDigit\obj\Debug\_04.NthDigit.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\05. ArraysAndMethods\04. NthDigit\obj\Debug\_04.NthDigit.pdb

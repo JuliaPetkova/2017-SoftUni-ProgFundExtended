@@ -1,0 +1,5 @@
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\05. ArraysAndMethods\03. SrtingRepeater\bin\Debug\_03.SrtingRepeater.exe.config
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\05. ArraysAndMethods\03. SrtingRepeater\bin\Debug\_03.SrtingRepeater.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\05. ArraysAndMethods\03. SrtingRepeater\bin\Debug\_03.SrtingRepeater.pdb
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\05. ArraysAndMethods\03. SrtingRepeater\obj\Debug\_03.SrtingRepeater.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\05. ArraysAndMethods\03. SrtingRepeater\obj\Debug\_03.SrtingRepeater.pdb
