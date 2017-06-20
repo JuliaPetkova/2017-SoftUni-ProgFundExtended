@@ -1,0 +1,5 @@
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\05. ArraysAndMethods\1-6. Odd Numbers at Odd Positions\bin\Debug\_1_6.Odd_Numbers_at_Odd_Positions.exe.config
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\05. ArraysAndMethods\1-6. Odd Numbers at Odd Positions\bin\Debug\_1_6.Odd_Numbers_at_Odd_Positions.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\05. ArraysAndMethods\1-6. Odd Numbers at Odd Positions\bin\Debug\_1_6.Odd_Numbers_at_Odd_Positions.pdb
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\05. ArraysAndMethods\1-6. Odd Numbers at Odd Positions\obj\Debug\_1_6.Odd_Numbers_at_Odd_Positions.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\05. ArraysAndMethods\1-6. Odd Numbers at Odd Positions\obj\Debug\_1_6.Odd_Numbers_at_Odd_Positions.pdb

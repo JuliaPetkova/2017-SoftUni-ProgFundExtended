@@ -31,6 +31,7 @@ namespace _3_01.Last_3_Consecutive_Equal_Strings
                 }
 
             }
+
         }
     }
 }

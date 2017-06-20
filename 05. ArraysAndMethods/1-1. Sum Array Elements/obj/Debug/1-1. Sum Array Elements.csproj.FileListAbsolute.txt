@@ -1,0 +1,6 @@
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\05. ArraysAndMethods\1-1. Sum Array Elements\bin\Debug\_1_1.Sum_Array_Elements.exe.config
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\05. ArraysAndMethods\1-1. Sum Array Elements\bin\Debug\_1_1.Sum_Array_Elements.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\05. ArraysAndMethods\1-1. Sum Array Elements\bin\Debug\_1_1.Sum_Array_Elements.pdb
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\05. ArraysAndMethods\1-1. Sum Array Elements\obj\Debug\1-1. Sum Array Elements.csprojResolveAssemblyReference.cache
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\05. ArraysAndMethods\1-1. Sum Array Elements\obj\Debug\_1_1.Sum_Array_Elements.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\05. ArraysAndMethods\1-1. Sum Array Elements\obj\Debug\_1_1.Sum_Array_Elements.pdb

@@ -1,0 +1,6 @@
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\05. ArraysAndMethods\3-06-PowerPlant\bin\Debug\3-06-PowerPlant.exe.config
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\05. ArraysAndMethods\3-06-PowerPlant\bin\Debug\3-06-PowerPlant.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\05. ArraysAndMethods\3-06-PowerPlant\bin\Debug\3-06-PowerPlant.pdb
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\05. ArraysAndMethods\3-06-PowerPlant\obj\Debug\3-06-PowerPlant.csprojResolveAssemblyReference.cache
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\05. ArraysAndMethods\3-06-PowerPlant\obj\Debug\3-06-PowerPlant.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\05. ArraysAndMethods\3-06-PowerPlant\obj\Debug\3-06-PowerPlant.pdb

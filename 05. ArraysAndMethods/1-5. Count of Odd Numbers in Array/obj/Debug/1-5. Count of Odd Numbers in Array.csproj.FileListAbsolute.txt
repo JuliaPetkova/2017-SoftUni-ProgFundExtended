@@ -1,0 +1,5 @@
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\05. ArraysAndMethods\1-5. Count of Odd Numbers in Array\bin\Debug\_1_5.Count_of_Odd_Numbers_in_Array.exe.config
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\05. ArraysAndMethods\1-5. Count of Odd Numbers in Array\bin\Debug\_1_5.Count_of_Odd_Numbers_in_Array.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\05. ArraysAndMethods\1-5. Count of Odd Numbers in Array\bin\Debug\_1_5.Count_of_Odd_Numbers_in_Array.pdb
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\05. ArraysAndMethods\1-5. Count of Odd Numbers in Array\obj\Debug\_1_5.Count_of_Odd_Numbers_in_Array.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\05. ArraysAndMethods\1-5. Count of Odd Numbers in Array\obj\Debug\_1_5.Count_of_Odd_Numbers_in_Array.pdb
