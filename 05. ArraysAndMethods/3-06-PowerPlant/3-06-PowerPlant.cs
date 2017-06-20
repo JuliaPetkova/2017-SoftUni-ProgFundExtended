@@ -10,62 +10,55 @@ namespace _3_06_PowerPlant
     {
         static void Main(string[] args)
         {
-            // Задачата не е готова//
-            int[] powerLevel = Console.ReadLine().Split().Select(int.Parse).ToArray();
+            var plants = Console.ReadLine().Split().Select(int.Parse).ToArray();
+            //counters
+            var alive = 0;
+            var death = 0;
+            var days = 0;
 
-            int daysCnt = 0;
-            int seasonCnt = 0;
-
-            bool isNewSeason = (seasonCnt > 0) && (daysCnt >= 4) && (daysCnt % 4 == 0);
-            bool isValidPlant = false;
-
-            do
+            for (int season = 0; season < int.MaxValue; season++)
             {
-                for (int i = 0; i < powerLevel.Length; i++)
+                for (int day = 0; day < plants.Length; day++)
                 {
-                    isValidPlant = (powerLevel[i] != 0);
-                    if (isValidPlant = true)
+                    if (plants[day] > 0)
                     {
-                        break;
+                        plants[day]++;
                     }
-
-                    if (powerLevel[i] > 0 && powerLevel[i] != i)
+                        
+                    for (int plant = 0; plant < plants.Length; plant++)
                     {
-                        powerLevel[i] = powerLevel[i] - 1;
+                        plants[plant]--;
                     }
-
-                    else if (powerLevel[i] == i)
+                    for (int checkAlive = 0; checkAlive < plants.Length; checkAlive++)
                     {
-                        powerLevel[i] = powerLevel[i] + 1;                        
-                    }
+                        if (plants[checkAlive] > 0)
 
-                   else if (isNewSeason = true && powerLevel[i] > 0)
+                        {
+                            alive++;
+                        }
+                        else if (plants[checkAlive] <= 0)
+                        {
+                            death++;
+                        }
+                    }
+                    days++;
+
+                    if (alive == 0)
                     {
-                        powerLevel[i] = powerLevel[i] + 1;
+                        Console.WriteLine($"survived {days} days ({season} seasons)");
+                        return;
                     }
-
-                    
-
+                    alive = 0;
+                    death = 0;
                 }
-                daysCnt++;
-
-                if (isNewSeason = true)
+                for (int bloom = 0; bloom < plants.Length; bloom++)
                 {
-                    seasonCnt++;
+                    if (plants[bloom] > 0)
+                    {
+                        plants[bloom]++;
+                    }
                 }
-
-            } while (isValidPlant);
-
-
-            if (seasonCnt < 2)
-            {
-                Console.WriteLine("survived {0} days ({1} seasons)", daysCnt, daysCnt / powerLevel.Length);
-            }
-            if (seasonCnt >= 2)
-            {
-                Console.WriteLine("survived {0} days ({1} season)", daysCnt, daysCnt / powerLevel.Length);
             }
         }
     }
 }
-
