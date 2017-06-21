@@ -1,0 +1,5 @@
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\06. Lists\1-02. Append Lists-2-ver.2\bin\Debug\_1_02.Append_Lists_2_ver._2.exe.config
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\06. Lists\1-02. Append Lists-2-ver.2\bin\Debug\_1_02.Append_Lists_2_ver._2.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\06. Lists\1-02. Append Lists-2-ver.2\bin\Debug\_1_02.Append_Lists_2_ver._2.pdb
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\06. Lists\1-02. Append Lists-2-ver.2\obj\Debug\_1_02.Append_Lists_2_ver._2.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\06. Lists\1-02. Append Lists-2-ver.2\obj\Debug\_1_02.Append_Lists_2_ver._2.pdb
