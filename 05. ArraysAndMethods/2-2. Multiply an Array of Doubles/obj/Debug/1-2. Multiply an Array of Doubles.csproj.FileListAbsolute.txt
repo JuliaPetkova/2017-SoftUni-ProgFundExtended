@@ -1,5 +1,0 @@
-D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\05. ArraysAndMethods\2-2. Multiply an Array of Doubles\bin\Debug\_2_2.Multiply_an_Array_of_Doubles.exe.config
-D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\05. ArraysAndMethods\2-2. Multiply an Array of Doubles\bin\Debug\_2_2.Multiply_an_Array_of_Doubles.exe
-D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\05. ArraysAndMethods\2-2. Multiply an Array of Doubles\bin\Debug\_2_2.Multiply_an_Array_of_Doubles.pdb
-D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\05. ArraysAndMethods\2-2. Multiply an Array of Doubles\obj\Debug\_2_2.Multiply_an_Array_of_Doubles.exe
-D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\05. ArraysAndMethods\2-2. Multiply an Array of Doubles\obj\Debug\_2_2.Multiply_an_Array_of_Doubles.pdb
