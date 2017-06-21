@@ -1,0 +1,5 @@
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\06. Lists\1-06. Square Numbers\bin\Debug\_1_06.Square_Numbers.exe.config
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\06. Lists\1-06. Square Numbers\bin\Debug\_1_06.Square_Numbers.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\06. Lists\1-06. Square Numbers\bin\Debug\_1_06.Square_Numbers.pdb
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\06. Lists\1-06. Square Numbers\obj\Debug\_1_06.Square_Numbers.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\06. Lists\1-06. Square Numbers\obj\Debug\_1_06.Square_Numbers.pdb
