@@ -1,0 +1,6 @@
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\06. Lists\1-07. Count Numbers\bin\Debug\_1_07.Count_Numbers.exe.config
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\06. Lists\1-07. Count Numbers\bin\Debug\_1_07.Count_Numbers.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\06. Lists\1-07. Count Numbers\bin\Debug\_1_07.Count_Numbers.pdb
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\06. Lists\1-07. Count Numbers\obj\Debug\1-07. Count Numbers.csprojResolveAssemblyReference.cache
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\06. Lists\1-07. Count Numbers\obj\Debug\_1_07.Count_Numbers.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\06. Lists\1-07. Count Numbers\obj\Debug\_1_07.Count_Numbers.pdb
