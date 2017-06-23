@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26430.13
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-01. Remove NegativesAndReverse", "ConsoleApp1\1-01. Remove NegativesAndReverse.csproj", "{EE729529-1EB2-406B-A723-6A17199A67DE}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-02. Append Lists", "1-02. Append Lists\1-02. Append Lists.csproj", "{CFB3DB90-4B43-48B9-B94C-23111A086FA5}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-04. Split by Word Casing", "1-02. Append Lists-2-ver.1\1-04. Split by Word Casing.csproj", "{AFE027ED-8FA3-4E5B-92FE-93A338FD5FD8}"
@@ -13,7 +11,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-03. Sum Adjacent Equal Nu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-05. Sort Numbers", "1-02. Append Lists-2-ver.2\1-05. Sort Numbers.csproj", "{43924119-4DDC-4BBD-919D-85A139067A22}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-01.Ver.1", "1-01.Ver.1\1-01.Ver.1.csproj", "{D1945D6D-4420-469F-9B8A-39F27603B626}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-01. Remove Negatives and Reverse", "1-01.Ver.1\1-01. Remove Negatives and Reverse.csproj", "{D1945D6D-4420-469F-9B8A-39F27603B626}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-06. Square Numbers", "1-06. Square Numbers\1-06. Square Numbers.csproj", "{7C56E5D4-1E9A-4DC5-B867-ADCCEAE0E213}"
 EndProject
@@ -23,16 +21,16 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-07. Count Numbers-Ver.2",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2-01. Remove Elements at Odd Positions", "2-01. Remove Elements at Odd Positions\2-01. Remove Elements at Odd Positions.csproj", "{C8699F7F-3932-41F7-B0AE-EA4B3900824C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2-02. Track Downloade", "2-02. Track Downloade\2-02. Track Downloade.csproj", "{2B3C9081-599A-4457-992A-D06A6892B14C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2-03. Equal Sum After Extraction", "2-03. Equal Sum After Extraction\2-03. Equal Sum After Extraction.csproj", "{EDB78769-76B1-4E05-AC27-889F832CB14D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{EE729529-1EB2-406B-A723-6A17199A67DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{EE729529-1EB2-406B-A723-6A17199A67DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{EE729529-1EB2-406B-A723-6A17199A67DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{EE729529-1EB2-406B-A723-6A17199A67DE}.Release|Any CPU.Build.0 = Release|Any CPU
 		{CFB3DB90-4B43-48B9-B94C-23111A086FA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{CFB3DB90-4B43-48B9-B94C-23111A086FA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CFB3DB90-4B43-48B9-B94C-23111A086FA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -69,6 +67,14 @@ Global
 		{C8699F7F-3932-41F7-B0AE-EA4B3900824C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C8699F7F-3932-41F7-B0AE-EA4B3900824C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C8699F7F-3932-41F7-B0AE-EA4B3900824C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B3C9081-599A-4457-992A-D06A6892B14C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B3C9081-599A-4457-992A-D06A6892B14C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B3C9081-599A-4457-992A-D06A6892B14C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B3C9081-599A-4457-992A-D06A6892B14C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDB78769-76B1-4E05-AC27-889F832CB14D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDB78769-76B1-4E05-AC27-889F832CB14D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDB78769-76B1-4E05-AC27-889F832CB14D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDB78769-76B1-4E05-AC27-889F832CB14D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
