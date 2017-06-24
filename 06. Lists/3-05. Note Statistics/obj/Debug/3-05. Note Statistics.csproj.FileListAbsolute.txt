@@ -1,0 +1,6 @@
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\06. Lists\3-05. Note Statistics\bin\Debug\_3_05.Note_Statistics.exe.config
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\06. Lists\3-05. Note Statistics\bin\Debug\_3_05.Note_Statistics.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\06. Lists\3-05. Note Statistics\bin\Debug\_3_05.Note_Statistics.pdb
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\06. Lists\3-05. Note Statistics\obj\Debug\3-05. Note Statistics.csprojResolveAssemblyReference.cache
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\06. Lists\3-05. Note Statistics\obj\Debug\_3_05.Note_Statistics.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\06. Lists\3-05. Note Statistics\obj\Debug\_3_05.Note_Statistics.pdb

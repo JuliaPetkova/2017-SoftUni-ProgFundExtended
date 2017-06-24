@@ -1,0 +1,6 @@
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\06. Lists\2-05. Tear List in Half\bin\Debug\_2_05.Tear_List_in_Half.exe.config
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\06. Lists\2-05. Tear List in Half\bin\Debug\_2_05.Tear_List_in_Half.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\06. Lists\2-05. Tear List in Half\bin\Debug\_2_05.Tear_List_in_Half.pdb
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\06. Lists\2-05. Tear List in Half\obj\Debug\2-05. Tear List in Half.csprojResolveAssemblyReference.cache
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\06. Lists\2-05. Tear List in Half\obj\Debug\_2_05.Tear_List_in_Half.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\06. Lists\2-05. Tear List in Half\obj\Debug\_2_05.Tear_List_in_Half.pdb

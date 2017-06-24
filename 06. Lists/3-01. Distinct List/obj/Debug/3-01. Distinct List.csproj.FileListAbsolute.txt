@@ -1,0 +1,6 @@
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\06. Lists\3-01. Distinct List\bin\Debug\_3_01.Distinct_List.exe.config
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\06. Lists\3-01. Distinct List\bin\Debug\_3_01.Distinct_List.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\06. Lists\3-01. Distinct List\bin\Debug\_3_01.Distinct_List.pdb
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\06. Lists\3-01. Distinct List\obj\Debug\3-01. Distinct List.csprojResolveAssemblyReference.cache
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\06. Lists\3-01. Distinct List\obj\Debug\_3_01.Distinct_List.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\06. Lists\3-01. Distinct List\obj\Debug\_3_01.Distinct_List.pdb
