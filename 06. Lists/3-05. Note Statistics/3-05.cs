@@ -95,8 +95,9 @@ namespace _3_05.Note_Statistics
             }
             Console.WriteLine("Naturals: " + string.Join(", ", naturals));
             Console.WriteLine("Sharps: " + string.Join(", ", sharps));
-            Console.WriteLine("Naturals sum: " + string.Join(" ", natSum));
-            Console.WriteLine("Sharps sum: " + string.Join(" ", sharpSum));
+            Console.WriteLine("Naturals sum: {0.F2}", natSum);
+            Console.WriteLine("Sharps sum: {0:F2}", sharpSum);       
+
         }
     }
 }
