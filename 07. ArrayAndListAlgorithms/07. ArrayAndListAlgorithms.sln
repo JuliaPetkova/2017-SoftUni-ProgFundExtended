@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7-4. Sort Array Using Bubbl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7-5. Sort Array Using Insertion Sort", "7-5. Sort Array Using Insertion Sort\7-5. Sort Array Using Insertion Sort.csproj", "{0E9F2F92-25CD-4688-A194-1995AB740B8E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7-6. Insertion Sort Using List", "7-6. Insertion Sort Using List\7-6. Insertion Sort Using List.csproj", "{6DB2839B-0107-40A4-87BF-CFA4E33CA588}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7-7. Largest N Elements", "7-7. Largest N Elements\7-7. Largest N Elements.csproj", "{F241CD04-71FD-4ADF-9AB7-C8D675641F36}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{0E9F2F92-25CD-4688-A194-1995AB740B8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0E9F2F92-25CD-4688-A194-1995AB740B8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0E9F2F92-25CD-4688-A194-1995AB740B8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DB2839B-0107-40A4-87BF-CFA4E33CA588}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DB2839B-0107-40A4-87BF-CFA4E33CA588}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DB2839B-0107-40A4-87BF-CFA4E33CA588}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DB2839B-0107-40A4-87BF-CFA4E33CA588}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F241CD04-71FD-4ADF-9AB7-C8D675641F36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F241CD04-71FD-4ADF-9AB7-C8D675641F36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F241CD04-71FD-4ADF-9AB7-C8D675641F36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F241CD04-71FD-4ADF-9AB7-C8D675641F36}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
