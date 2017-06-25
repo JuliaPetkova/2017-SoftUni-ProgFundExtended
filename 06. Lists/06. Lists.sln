@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26430.13
+VisualStudioVersion = 15.0.26430.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-02. Append Lists", "1-02. Append Lists\1-02. Append Lists.csproj", "{CFB3DB90-4B43-48B9-B94C-23111A086FA5}"
 EndProject
@@ -33,13 +33,17 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2-05. Tear List in Half", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3-01. Distinct List", "3-01. Distinct List\3-01. Distinct List.csproj", "{52E1A5EE-84DD-4959-87E1-50AF47A7E807}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3-02. Integer Insertion", "3.02. Integer Insertion\3-02. Integer Insertion.csproj", "{3BE9D4CD-4283-410E-AD3F-4DF9D8DB801E}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3-03. Camel’s Back", "3-03. Camel’s Back\3-03. Camel’s Back.csproj", "{829B323F-2858-4FF5-B53A-0C903D17E91F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3-04. Ununion Lists", "3-04. Ununion Lists\3-04. Ununion Lists.csproj", "{8DEAEE3C-CA92-4B78-9163-96871E472648}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3-05. Note Statistics", "3-05. Note Statistics\3-05. Note Statistics.csproj", "{17E8F520-3C28-42B3-8A01-9A47B13700D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3-05-preslav", "3-05-preslav\3-05-preslav.csproj", "{F4DD4536-76BF-4400-9CB9-C2DEC97706F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3-02. Integer Insertion", "3-02. Integer Insertion\3-02. Integer Insertion.csproj", "{3BE9D4CD-4283-410E-AD3F-4DF9D8DB801E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3-06. Winecraft", "3-5. Note Statistics\3-06. Winecraft.csproj", "{E6D1676C-8505-4DAA-8D67-767BB9EF3413}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -107,10 +111,6 @@ Global
 		{52E1A5EE-84DD-4959-87E1-50AF47A7E807}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{52E1A5EE-84DD-4959-87E1-50AF47A7E807}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{52E1A5EE-84DD-4959-87E1-50AF47A7E807}.Release|Any CPU.Build.0 = Release|Any CPU
-		{3BE9D4CD-4283-410E-AD3F-4DF9D8DB801E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3BE9D4CD-4283-410E-AD3F-4DF9D8DB801E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3BE9D4CD-4283-410E-AD3F-4DF9D8DB801E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3BE9D4CD-4283-410E-AD3F-4DF9D8DB801E}.Release|Any CPU.Build.0 = Release|Any CPU
 		{829B323F-2858-4FF5-B53A-0C903D17E91F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{829B323F-2858-4FF5-B53A-0C903D17E91F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{829B323F-2858-4FF5-B53A-0C903D17E91F}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -123,6 +123,18 @@ Global
 		{17E8F520-3C28-42B3-8A01-9A47B13700D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{17E8F520-3C28-42B3-8A01-9A47B13700D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{17E8F520-3C28-42B3-8A01-9A47B13700D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4DD4536-76BF-4400-9CB9-C2DEC97706F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4DD4536-76BF-4400-9CB9-C2DEC97706F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4DD4536-76BF-4400-9CB9-C2DEC97706F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4DD4536-76BF-4400-9CB9-C2DEC97706F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BE9D4CD-4283-410E-AD3F-4DF9D8DB801E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BE9D4CD-4283-410E-AD3F-4DF9D8DB801E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BE9D4CD-4283-410E-AD3F-4DF9D8DB801E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BE9D4CD-4283-410E-AD3F-4DF9D8DB801E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6D1676C-8505-4DAA-8D67-767BB9EF3413}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6D1676C-8505-4DAA-8D67-767BB9EF3413}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6D1676C-8505-4DAA-8D67-767BB9EF3413}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6D1676C-8505-4DAA-8D67-767BB9EF3413}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
