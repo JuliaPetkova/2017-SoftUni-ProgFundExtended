@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{2D8B28B3-97AB-4AF3-87AD-66C8A15A9529}</ProjectGuid>
+    <ProjectGuid>{7A87295B-654A-40AE-9509-0B9E6D7FB683}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_7_1.Array_Contains_Element</RootNamespace>
-    <AssemblyName>_7_1.Array_Contains_Element</AssemblyName>
+    <RootNamespace>_2_2.Average_Character_Delimiter</RootNamespace>
+    <AssemblyName>_2_2.Average_Character_Delimiter</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -42,7 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="7-1-1.cs" />
+    <Compile Include="7-2-2.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

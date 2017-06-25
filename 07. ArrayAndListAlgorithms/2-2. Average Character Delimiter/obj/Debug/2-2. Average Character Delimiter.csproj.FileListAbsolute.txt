@@ -1,0 +1,6 @@
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\07. ArrayAndListAlgorithms\2-2. Average Character Delimiter\bin\Debug\_2_2.Average_Character_Delimiter.exe.config
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\07. ArrayAndListAlgorithms\2-2. Average Character Delimiter\bin\Debug\_2_2.Average_Character_Delimiter.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\07. ArrayAndListAlgorithms\2-2. Average Character Delimiter\bin\Debug\_2_2.Average_Character_Delimiter.pdb
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\07. ArrayAndListAlgorithms\2-2. Average Character Delimiter\obj\Debug\2-2. Average Character Delimiter.csprojResolveAssemblyReference.cache
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\07. ArrayAndListAlgorithms\2-2. Average Character Delimiter\obj\Debug\_2_2.Average_Character_Delimiter.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\07. ArrayAndListAlgorithms\2-2. Average Character Delimiter\obj\Debug\_2_2.Average_Character_Delimiter.pdb

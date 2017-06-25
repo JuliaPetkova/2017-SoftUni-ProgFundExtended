@@ -3,19 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26430.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7-1. Array Contains Element", "7-1. Array Contains Element\7-1. Array Contains Element.csproj", "{2D8B28B3-97AB-4AF3-87AD-66C8A15A9529}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-1. Array Contains Element", "7-1. Array Contains Element\1-1. Array Contains Element.csproj", "{2D8B28B3-97AB-4AF3-87AD-66C8A15A9529}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7-2. Smallest Element in Array", "7-2. Smallest Element in Array\7-2. Smallest Element in Array.csproj", "{B39AE366-79D0-4D72-A7CC-9EC7860DBB66}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-2. Smallest Element in Array", "7-2. Smallest Element in Array\1-2. Smallest Element in Array.csproj", "{B39AE366-79D0-4D72-A7CC-9EC7860DBB66}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7-3. Reverse Array In-place", "7-3. Reverse Array In-place\7-3. Reverse Array In-place.csproj", "{503F19D4-A6D6-4D6C-BC8C-7B71740347C2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-3. Reverse Array In-place", "7-3. Reverse Array In-place\1-3. Reverse Array In-place.csproj", "{503F19D4-A6D6-4D6C-BC8C-7B71740347C2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7-4. Sort Array Using Bubble Sort", "7-4. Sort Array Using Bubble Sort\7-4. Sort Array Using Bubble Sort.csproj", "{A68074B2-35E1-4BD6-870B-08EC4DF73891}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-4. Sort Array Using Bubble Sort", "7-4. Sort Array Using Bubble Sort\1-4. Sort Array Using Bubble Sort.csproj", "{A68074B2-35E1-4BD6-870B-08EC4DF73891}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7-5. Sort Array Using Insertion Sort", "7-5. Sort Array Using Insertion Sort\7-5. Sort Array Using Insertion Sort.csproj", "{0E9F2F92-25CD-4688-A194-1995AB740B8E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-5. Sort Array Using Insertion Sort", "7-5. Sort Array Using Insertion Sort\1-5. Sort Array Using Insertion Sort.csproj", "{0E9F2F92-25CD-4688-A194-1995AB740B8E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7-6. Insertion Sort Using List", "7-6. Insertion Sort Using List\7-6. Insertion Sort Using List.csproj", "{6DB2839B-0107-40A4-87BF-CFA4E33CA588}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-6. Insertion Sort Using List", "7-6. Insertion Sort Using List\1-6. Insertion Sort Using List.csproj", "{6DB2839B-0107-40A4-87BF-CFA4E33CA588}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7-7. Largest N Elements", "7-7. Largest N Elements\7-7. Largest N Elements.csproj", "{F241CD04-71FD-4ADF-9AB7-C8D675641F36}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-7. Largest N Elements", "7-7. Largest N Elements\1-7. Largest N Elements.csproj", "{F241CD04-71FD-4ADF-9AB7-C8D675641F36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2-2. Average Character Delimiter", "2-2. Average Character Delimiter\2-2. Average Character Delimiter.csproj", "{7A87295B-654A-40AE-9509-0B9E6D7FB683}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{F241CD04-71FD-4ADF-9AB7-C8D675641F36}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F241CD04-71FD-4ADF-9AB7-C8D675641F36}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F241CD04-71FD-4ADF-9AB7-C8D675641F36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A87295B-654A-40AE-9509-0B9E6D7FB683}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A87295B-654A-40AE-9509-0B9E6D7FB683}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A87295B-654A-40AE-9509-0B9E6D7FB683}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A87295B-654A-40AE-9509-0B9E6D7FB683}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
