@@ -1,0 +1,6 @@
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\07. ArrayAndListAlgorithms\7-5. Sort Array Using Insertion Sort\bin\Debug\_7_5.Sort_Array_Using_Insertion_Sort.exe.config
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\07. ArrayAndListAlgorithms\7-5. Sort Array Using Insertion Sort\bin\Debug\_7_5.Sort_Array_Using_Insertion_Sort.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\07. ArrayAndListAlgorithms\7-5. Sort Array Using Insertion Sort\bin\Debug\_7_5.Sort_Array_Using_Insertion_Sort.pdb
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\07. ArrayAndListAlgorithms\7-5. Sort Array Using Insertion Sort\obj\Debug\7-5. Sort Array Using Insertion Sort.csprojResolveAssemblyReference.cache
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\07. ArrayAndListAlgorithms\7-5. Sort Array Using Insertion Sort\obj\Debug\_7_5.Sort_Array_Using_Insertion_Sort.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\07. ArrayAndListAlgorithms\7-5. Sort Array Using Insertion Sort\obj\Debug\_7_5.Sort_Array_Using_Insertion_Sort.pdb

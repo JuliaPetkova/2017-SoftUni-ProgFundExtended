@@ -1,0 +1,6 @@
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\07. ArrayAndListAlgorithms\7-2. Smallest Element in Array\bin\Debug\_7_2.Smallest_Element_in_Array.exe.config
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\07. ArrayAndListAlgorithms\7-2. Smallest Element in Array\bin\Debug\_7_2.Smallest_Element_in_Array.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\07. ArrayAndListAlgorithms\7-2. Smallest Element in Array\bin\Debug\_7_2.Smallest_Element_in_Array.pdb
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\07. ArrayAndListAlgorithms\7-2. Smallest Element in Array\obj\Debug\_7_2.Smallest_Element_in_Array.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\07. ArrayAndListAlgorithms\7-2. Smallest Element in Array\obj\Debug\_7_2.Smallest_Element_in_Array.pdb
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\07. ArrayAndListAlgorithms\7-2. Smallest Element in Array\obj\Debug\7-2. Smallest Element in Array.csprojResolveAssemblyReference.cache

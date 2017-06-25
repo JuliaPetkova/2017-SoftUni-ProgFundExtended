@@ -20,7 +20,6 @@ namespace _3_05.Note_Statistics
             double natSum = 0;
             double sharpSum = 0;
 
-
             foreach (var item in frequencies)
             {
                 switch (item)
@@ -59,11 +58,23 @@ namespace _3_05.Note_Statistics
                         notes.Add("G");
                         natSum += double.Parse(item);
                         break;
+                    case "392.00":
+                        notes.Add("G");
+                        natSum += double.Parse(item);
+                        break;
                     case "415.30":
                         notes.Add("G#");
                         sharpSum += double.Parse(item);
                         break;
+                    case "415.3":
+                        notes.Add("G#");
+                        sharpSum += double.Parse(item);
+                        break;
                     case "440.0":
+                        notes.Add("A");
+                        natSum += double.Parse(item);
+                        break;
+                    case "440.00":
                         notes.Add("A");
                         natSum += double.Parse(item);
                         break;
@@ -95,8 +106,8 @@ namespace _3_05.Note_Statistics
             }
             Console.WriteLine("Naturals: " + string.Join(", ", naturals));
             Console.WriteLine("Sharps: " + string.Join(", ", sharps));
-            Console.WriteLine("Naturals sum: {0:0.##}", natSum);
-            Console.WriteLine("Sharps sum: {0:0.##}", sharpSum);       
+            Console.WriteLine("Naturals sum: {0}", natSum);
+            Console.WriteLine("Sharps sum: {0}", sharpSum);
 
         }
     }

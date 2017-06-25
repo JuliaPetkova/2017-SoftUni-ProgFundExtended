@@ -1,0 +1,6 @@
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\07. ArrayAndListAlgorithms\7-3. Reverse Array In-place\bin\Debug\_7_3.Reverse_Array_In_place.exe.config
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\07. ArrayAndListAlgorithms\7-3. Reverse Array In-place\bin\Debug\_7_3.Reverse_Array_In_place.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\07. ArrayAndListAlgorithms\7-3. Reverse Array In-place\bin\Debug\_7_3.Reverse_Array_In_place.pdb
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\07. ArrayAndListAlgorithms\7-3. Reverse Array In-place\obj\Debug\_7_3.Reverse_Array_In_place.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\07. ArrayAndListAlgorithms\7-3. Reverse Array In-place\obj\Debug\_7_3.Reverse_Array_In_place.pdb
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\07. ArrayAndListAlgorithms\7-3. Reverse Array In-place\obj\Debug\7-3. Reverse Array In-place.csprojResolveAssemblyReference.cache
