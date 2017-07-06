@@ -12,9 +12,9 @@ namespace _2_2.Average_Character_Delimiter
         {
             string[] input = Console.ReadLine().Split().ToArray();
 
-            int count = 0;
+            int count = 0;      // number of chars in the input
+            int charSum = 0;    // sum of chars in the input
 
-            int charSum = 0;
             string result = "";
 
 
@@ -22,30 +22,26 @@ namespace _2_2.Average_Character_Delimiter
             {
                 foreach (var item in input[i])
                 {
-                    char number = item; // convert item (char) to an  integer 
+                    char number = item;
                     charSum = charSum + number;
-                    count++;
+                    count++; 
                 }
             }
-            charSum = charSum / 10;
-
-            char sum = Convert.ToChar(charSum);
-            sum = Char.ToUpper(sum);
+            charSum = charSum / count;
+            char sum = char.ToUpper((char)charSum);
 
             for (int i = 0; i < input.Length; i++)
             {
                 if (i == input.Length - 1)
                 {
-                    result = result + input[i];
+                    result = result + input[i]; // add elements in result
                 }
                 else
                 {
-                    result = result + input[i] + sum;
+                    result = result + input[i] + sum; // add last element
                 }
             }
             Console.WriteLine(result);
-
-            //Console.WriteLine($"count {count}, sum of chars in input {charSum}");
         }
     }
 }

@@ -1,0 +1,6 @@
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\07. ArrayAndListAlgorithms\3-2. Binary Search\bin\Debug\_3_2.Binary_Search.exe.config
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\07. ArrayAndListAlgorithms\3-2. Binary Search\bin\Debug\_3_2.Binary_Search.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\07. ArrayAndListAlgorithms\3-2. Binary Search\bin\Debug\_3_2.Binary_Search.pdb
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\07. ArrayAndListAlgorithms\3-2. Binary Search\obj\Debug\3-2. Binary Search.csprojResolveAssemblyReference.cache
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\07. ArrayAndListAlgorithms\3-2. Binary Search\obj\Debug\_3_2.Binary_Search.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\07. ArrayAndListAlgorithms\3-2. Binary Search\obj\Debug\_3_2.Binary_Search.pdb
