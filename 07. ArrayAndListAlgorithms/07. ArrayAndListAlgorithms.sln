@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-6. Insertion Sort Using L
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-7. Largest N Elements", "1-7. Largest N Elements\1-7. Largest N Elements.csproj", "{F241CD04-71FD-4ADF-9AB7-C8D675641F36}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3-3. Mirror Image", "3-3. Mirror Image\3-3. Mirror Image.csproj", "{235BEC29-BB72-49C8-8098-B6BA5FE65496}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{F241CD04-71FD-4ADF-9AB7-C8D675641F36}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F241CD04-71FD-4ADF-9AB7-C8D675641F36}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F241CD04-71FD-4ADF-9AB7-C8D675641F36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{235BEC29-BB72-49C8-8098-B6BA5FE65496}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{235BEC29-BB72-49C8-8098-B6BA5FE65496}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{235BEC29-BB72-49C8-8098-B6BA5FE65496}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{235BEC29-BB72-49C8-8098-B6BA5FE65496}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

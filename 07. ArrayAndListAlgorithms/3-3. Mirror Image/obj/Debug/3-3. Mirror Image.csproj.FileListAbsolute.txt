@@ -1,0 +1,6 @@
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\07. ArrayAndListAlgorithms\3-3. Mirror Image\bin\Debug\_3_3.Mirror_Image.exe.config
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\07. ArrayAndListAlgorithms\3-3. Mirror Image\bin\Debug\_3_3.Mirror_Image.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\07. ArrayAndListAlgorithms\3-3. Mirror Image\bin\Debug\_3_3.Mirror_Image.pdb
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\07. ArrayAndListAlgorithms\3-3. Mirror Image\obj\Debug\3-3. Mirror Image.csprojResolveAssemblyReference.cache
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\07. ArrayAndListAlgorithms\3-3. Mirror Image\obj\Debug\_3_3.Mirror_Image.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\07. ArrayAndListAlgorithms\3-3. Mirror Image\obj\Debug\_3_3.Mirror_Image.pdb

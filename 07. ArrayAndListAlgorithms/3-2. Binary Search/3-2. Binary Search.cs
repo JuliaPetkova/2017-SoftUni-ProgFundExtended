@@ -15,6 +15,7 @@ namespace _3_2.Binary_Search
 
             int linearIterations = 0;
             int binaryIterations = 0;
+
             bool isFound = false;
             LinearSearch(list, num, ref linearIterations, ref isFound);
             BinarySearch(list, num, ref binaryIterations, isFound);
