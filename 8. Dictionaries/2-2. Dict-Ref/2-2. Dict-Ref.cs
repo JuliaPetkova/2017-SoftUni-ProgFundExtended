@@ -13,8 +13,6 @@ namespace _2_1.Letter_Repetition
             string[] input = Console.ReadLine()
                     .Split(new char[] { ' ', '=' }, StringSplitOptions.RemoveEmptyEntries);
 
-            //Console.WriteLine(string.Join(", ", input));
-
             Dictionary<string, int> dict = new Dictionary<string, int>();
 
             while (input[0] != "end")

@@ -3,3 +3,4 @@ D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\8. Dictionaries\2-3
 D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\8. Dictionaries\2-3. Mixed Phones\bin\Debug\_2_3.Mixed_Phones.pdb
 D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\8. Dictionaries\2-3. Mixed Phones\obj\Debug\_2_3.Mixed_Phones.exe
 D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\8. Dictionaries\2-3. Mixed Phones\obj\Debug\_2_3.Mixed_Phones.pdb
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\8. Dictionaries\2-3. Mixed Phones\obj\Debug\2-3. Mixed Phones.csprojResolveAssemblyReference.cache
