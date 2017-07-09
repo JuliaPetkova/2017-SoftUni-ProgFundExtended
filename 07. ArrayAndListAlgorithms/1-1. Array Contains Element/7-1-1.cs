@@ -22,8 +22,7 @@ namespace _7_1.Array_Contains_Element
                 }
             }
             Console.WriteLine("no");
-
- 
+            
         }
     }
 }

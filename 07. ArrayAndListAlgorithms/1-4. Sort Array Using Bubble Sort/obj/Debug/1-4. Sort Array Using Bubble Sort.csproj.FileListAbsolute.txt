@@ -1,0 +1,3 @@
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\07. ArrayAndListAlgorithms\1-4. Sort Array Using Bubble Sort\bin\Debug\_7_4.Sort_Array_Using_Bubble_Sort.exe.config
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\07. ArrayAndListAlgorithms\1-4. Sort Array Using Bubble Sort\obj\Debug\_7_4.Sort_Array_Using_Bubble_Sort.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\07. ArrayAndListAlgorithms\1-4. Sort Array Using Bubble Sort\obj\Debug\_7_4.Sort_Array_Using_Bubble_Sort.pdb

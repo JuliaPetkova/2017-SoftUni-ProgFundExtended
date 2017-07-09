@@ -1,0 +1,6 @@
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\07. ArrayAndListAlgorithms\1-1. Array Contains Element\bin\Debug\_7_1.Array_Contains_Element.exe.config
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\07. ArrayAndListAlgorithms\1-1. Array Contains Element\bin\Debug\_7_1.Array_Contains_Element.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\07. ArrayAndListAlgorithms\1-1. Array Contains Element\bin\Debug\_7_1.Array_Contains_Element.pdb
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\07. ArrayAndListAlgorithms\1-1. Array Contains Element\obj\Debug\1-1. Array Contains Element.csprojResolveAssemblyReference.cache
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\07. ArrayAndListAlgorithms\1-1. Array Contains Element\obj\Debug\_7_1.Array_Contains_Element.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\07. ArrayAndListAlgorithms\1-1. Array Contains Element\obj\Debug\_7_1.Array_Contains_Element.pdb
