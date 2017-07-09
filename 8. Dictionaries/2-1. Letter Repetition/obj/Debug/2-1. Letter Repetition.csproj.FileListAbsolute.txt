@@ -1,0 +1,6 @@
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\8. Dictionaries\2-1. Letter Repetition\bin\Debug\_2_1.Letter_Repetition.exe.config
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\8. Dictionaries\2-1. Letter Repetition\bin\Debug\_2_1.Letter_Repetition.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\8. Dictionaries\2-1. Letter Repetition\bin\Debug\_2_1.Letter_Repetition.pdb
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\8. Dictionaries\2-1. Letter Repetition\obj\Debug\2-1. Letter Repetition.csprojResolveAssemblyReference.cache
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\8. Dictionaries\2-1. Letter Repetition\obj\Debug\_2_1.Letter_Repetition.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\8. Dictionaries\2-1. Letter Repetition\obj\Debug\_2_1.Letter_Repetition.pdb

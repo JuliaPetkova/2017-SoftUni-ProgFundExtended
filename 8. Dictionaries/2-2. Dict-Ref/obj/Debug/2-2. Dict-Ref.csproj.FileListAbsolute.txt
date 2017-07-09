@@ -1,0 +1,6 @@
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\8. Dictionaries\2-2. Dict-Ref\bin\Debug\_2_2.Dict_Ref.exe.config
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\8. Dictionaries\2-2. Dict-Ref\bin\Debug\_2_2.Dict_Ref.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\8. Dictionaries\2-2. Dict-Ref\bin\Debug\_2_2.Dict_Ref.pdb
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\8. Dictionaries\2-2. Dict-Ref\obj\Debug\2-2. Dict-Ref.csprojResolveAssemblyReference.cache
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\8. Dictionaries\2-2. Dict-Ref\obj\Debug\_2_2.Dict_Ref.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\8. Dictionaries\2-2. Dict-Ref\obj\Debug\_2_2.Dict_Ref.pdb

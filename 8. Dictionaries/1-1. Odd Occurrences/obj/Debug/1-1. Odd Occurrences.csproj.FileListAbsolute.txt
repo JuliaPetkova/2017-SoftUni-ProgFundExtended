@@ -1,0 +1,6 @@
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\8. Dictionaries\1-1. Odd Occurrences\bin\Debug\_1_1.Odd_Occurrences.exe.config
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\8. Dictionaries\1-1. Odd Occurrences\bin\Debug\_1_1.Odd_Occurrences.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\8. Dictionaries\1-1. Odd Occurrences\bin\Debug\_1_1.Odd_Occurrences.pdb
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\8. Dictionaries\1-1. Odd Occurrences\obj\Debug\1-1. Odd Occurrences.csprojResolveAssemblyReference.cache
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\8. Dictionaries\1-1. Odd Occurrences\obj\Debug\_1_1.Odd_Occurrences.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\8. Dictionaries\1-1. Odd Occurrences\obj\Debug\_1_1.Odd_Occurrences.pdb
