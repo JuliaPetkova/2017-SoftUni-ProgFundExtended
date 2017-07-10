@@ -10,43 +10,42 @@ namespace _2_1.Letter_Repetition
     {
         static void Main(string[] args)
         {
-            string[] input = Console.ReadLine()
-                    .Split(new char[] { ' ', '=' }, StringSplitOptions.RemoveEmptyEntries);
+            Dictionary<string, long> dict = new Dictionary<string, long>();
 
-            Dictionary<string, int> dict = new Dictionary<string, int>();
+            var input = Console.ReadLine();
 
-            while (input[0] != "end")
+            //string[] input = Console.ReadLine().Split(new char[] { ' ', '=' }, StringSplitOptions.RemoveEmptyEntries);
+
+            while (input != "end")
             {
-                string dictKey = input[0];
-                var dictValue = 0;
+                var tokens = input.Split();
 
-                if (int.TryParse(input[1], out dictValue))
+                var key = tokens[0];
+                var value = tokens[tokens.Length - 1];
+
+                var number = 0L;
+                if (long.TryParse(value, out number))
                 {
-                    if (dict.ContainsKey(input[0]))
+                    if (dict.ContainsKey(key))
                     {
-                        dict[input[0]] = dictValue;
+                        dict[key] = number;
                     }
                     else
                     {
-                        dict.Add(dictKey, dictValue);
+                        dict.Add(key, number);
                     }
                 }
                 else
                 {
-                    if (dict.ContainsKey(input[1]))
+                    if (dict.ContainsKey(value))
                     {
-                        dict[dictKey] = dict[input[1]];
-                    }
-                    else
-                    {
-                        break;
-                    }
+                        dict[key] = dict[value];
+                    }                  
                 }
-
-                input = Console.ReadLine().Split(new char[] { ' ', '=' }, StringSplitOptions.RemoveEmptyEntries);
+                input = Console.ReadLine();
             }
 
-            foreach (KeyValuePair<string, int> item in dict)
+            foreach (KeyValuePair<string, long> item in dict)
             {
                 Console.WriteLine($"{item.Key} === {item.Value}");
             }

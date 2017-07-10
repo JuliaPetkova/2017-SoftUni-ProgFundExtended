@@ -10,35 +10,32 @@ namespace _2_3.Mixed_Phones
     {
         static void Main(string[] args)
         {
-            string[] input = Console.ReadLine()
-                    .Split(new char[] { ' ', ':' }, StringSplitOptions.RemoveEmptyEntries);
+            var input = Console.ReadLine();
+            SortedDictionary<string, long> dict = new SortedDictionary<string, long>();
 
-            SortedDictionary<string, int> dict = new SortedDictionary<string, int>();
-
-            while (input[0] != "Over")
+            while (input != "Over")
             {
-                string dictKey;
-                int dictValueFirst;
-                int dictValueSecond;
+                var tokens = input.Split();
 
-                bool input0isNumber = int.TryParse(input[0], out dictValueSecond);
-                bool input1isNumber = int.TryParse(input[1], out dictValueFirst);
+                var key = tokens[0];
+                var value = tokens[tokens.Length - 1];
 
-                if (input0isNumber && !input1isNumber)
+                long number;
+                bool isKeyNumber = long.TryParse(key, out number);
+
+                if (isKeyNumber)
                 {
-                    dict.Add(input[1], dictValueSecond);
+                    dict.Add(value, number);
+                }
+                else
+                {
+                    dict.Add(key, long.Parse(value));
                 }
 
-                if (!input0isNumber && input1isNumber)
-                {
-                    dict.Add(input[0], dictValueFirst);
-                }
-
-                input = Console.ReadLine()
-                    .Split(new char[] { ' ', ':' }, StringSplitOptions.RemoveEmptyEntries);
+                input = Console.ReadLine();                 
             }
 
-            foreach (KeyValuePair<string, int> item in dict)
+            foreach (KeyValuePair<string, long> item in dict)
             {
                 Console.WriteLine($"{item.Key} -> {item.Value}");
             }

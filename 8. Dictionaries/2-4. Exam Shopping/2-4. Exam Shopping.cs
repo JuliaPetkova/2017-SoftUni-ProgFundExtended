@@ -10,69 +10,65 @@ namespace _2_4.Exam_Shopping
     {
         static void Main(string[] args)
         {
-            string[] input = Console.ReadLine().Split();
+            var input = Console.ReadLine();
 
             SortedDictionary<string, int> stock = new SortedDictionary<string, int>();
 
-            while (input[0] == "stock")
+            while (input != "shopping time")
             {
-                int quantity = int.Parse(input[2]);
+                var tokens = input.Split();
+                string product = tokens[1];
+                int quantity = int.Parse(tokens[2]);
 
-                if (stock.ContainsKey(input[1]))
+                if (!stock.ContainsKey(product))
                 {
-                    stock[input[1]] += quantity;
+                    stock[product] = 0;
+                }
+                stock[product] += quantity;
+
+                input = Console.ReadLine();
+            }
+
+            input = Console.ReadLine();
+
+            while (input != "exam time")
+            {
+                var tokens = input.Split();
+
+                string product = tokens[1];
+                int quantity = int.Parse(tokens[2]);
+
+                if (!stock.ContainsKey(product))
+                {
+                    Console.WriteLine($"{product} doesn't exist");
                 }
                 else
                 {
-                    stock.Add(input[1], quantity);
-                }
-
-                input = Console.ReadLine().Split();
-
-                if (input[0] == "shopping")
-                {
-                    break;
-                }
-            }
-
-            input = Console.ReadLine().Split();
-
-            while (input[0] == "buy")
-            {
-                int quantity = int.Parse(input[2]);
-
-                if (stock.ContainsKey(input[1]))
-                {
-                    if (stock[input[1]] > 0)
+                    if (stock[product] == 0)
                     {
-                        stock[input[1]] -= quantity;
+                        Console.WriteLine($"{product} out of stock");
                     }
                     else
                     {
-                        Console.WriteLine($"{input[1]} out of stock");
+                        stock[product] -= quantity;
+
+                        if (stock[product] < 0)
+                        {
+                            stock[product] = 0;
+                        }
                     }
                 }
-                else
-                {
-                    Console.WriteLine($"{input[1]} doesn't exist");
-                }
 
-                input = Console.ReadLine().Split();
-
-                if (input[0] == "exam")
-                {
-                    break;
-                }
+                input = Console.ReadLine();
             }
 
             foreach (KeyValuePair<string, int> item in stock)
             {
+                if (item.Value > 0)
                 {
-                    if (item.Value > 0)
-                    {
-                        Console.WriteLine($"{item.Key}-->{item.Value}");
-                    }
+                    Console.WriteLine($"{item.Key} -> {item.Value}");
                 }
+
             }
         }
     }
