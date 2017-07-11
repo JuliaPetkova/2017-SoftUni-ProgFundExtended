@@ -1,0 +1,6 @@
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\9. NestedDictionaries\1-2. Cities by Continent and Country\bin\Debug\_1_2.Cities_by_Continent_and_Country.exe.config
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\9. NestedDictionaries\1-2. Cities by Continent and Country\bin\Debug\_1_2.Cities_by_Continent_and_Country.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\9. NestedDictionaries\1-2. Cities by Continent and Country\bin\Debug\_1_2.Cities_by_Continent_and_Country.pdb
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\9. NestedDictionaries\1-2. Cities by Continent and Country\obj\Debug\1-2. Cities by Continent and Country.csprojResolveAssemblyReference.cache
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\9. NestedDictionaries\1-2. Cities by Continent and Country\obj\Debug\_1_2.Cities_by_Continent_and_Country.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\9. NestedDictionaries\1-2. Cities by Continent and Country\obj\Debug\_1_2.Cities_by_Continent_and_Country.pdb
