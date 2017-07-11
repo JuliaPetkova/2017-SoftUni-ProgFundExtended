@@ -12,7 +12,7 @@ namespace _2_4.Exam_Shopping
         {
             var input = Console.ReadLine();
 
-            SortedDictionary<string, int> stock = new SortedDictionary<string, int>();
+            Dictionary<string, int> stock = new Dictionary<string, int>();
 
             while (input != "shopping time")
             {

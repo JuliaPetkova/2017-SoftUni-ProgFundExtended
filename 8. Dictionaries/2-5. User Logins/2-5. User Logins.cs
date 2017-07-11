@@ -10,41 +10,48 @@ namespace _2_5.User_Logins
     {
         static void Main(string[] args)
         {
-            string[] input = Console.ReadLine().Split(new char[] { ' ', '-', '>' }, StringSplitOptions.RemoveEmptyEntries);
-
+            // string[] input = Console.ReadLine().Split(new char[] { ' ', '-', '>' }, StringSplitOptions.RemoveEmptyEntries);
+            string input = Console.ReadLine();
             Dictionary<string, string> login = new Dictionary<string, string>();
             int cnt = 0;
 
-            while (input[0] != "login")
+            while (input != "login")
             {
-                if (!login.ContainsKey(input[0]))
+                string[] tokens = input.Split();
+                string user = tokens[0];
+                string pass = tokens[tokens.Length-1];
+
+                if (!login.ContainsKey(user))
                 {
-                    login.Add(input[0], input[1]);
+                    login.Add(user, pass);
                 }
                 else
                 {
-                    login[input[0]] = input[1];
+                    login[user] = pass;
                 }
 
-                input = Console.ReadLine().Split(new char[] { ' ', '-', '>' }, StringSplitOptions.RemoveEmptyEntries);
+                input = Console.ReadLine();
             }
 
-            input = Console.ReadLine().Split(new char[] { ' ', '-', '>' }, StringSplitOptions.RemoveEmptyEntries);
+            input = Console.ReadLine();
 
-            while (input[0] != "end")
+            while (input != "end")
             {
+                string[] tokens = input.Split();
+                string user = tokens[0];
+                string pass = tokens[tokens.Length - 1];
 
-                if (login.ContainsKey(input[0]) && login.ContainsValue(input[1]))
+                if (login.ContainsKey(user) && login.ContainsValue(pass))
                 {
-                    Console.WriteLine($"{input[0]}: logged in successfully");
+                    Console.WriteLine($"{user}: logged in successfully");
                 }
                 else
                 {
-                    Console.WriteLine($"{input[0]}: logged in failed");
+                    Console.WriteLine($"{user}: login failed");
                     cnt++;
                 }
 
-                input = Console.ReadLine().Split(new char[] { ' ', '-', '>' }, StringSplitOptions.RemoveEmptyEntries);
+                input = Console.ReadLine();
 
             }
 
