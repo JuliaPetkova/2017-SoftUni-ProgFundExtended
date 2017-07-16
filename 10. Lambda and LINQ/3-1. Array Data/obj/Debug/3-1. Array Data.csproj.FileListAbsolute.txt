@@ -1,0 +1,6 @@
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\10. Lambda and LINQ\3-1. Array Data\obj\Debug\3-1. Array Data.csprojResolveAssemblyReference.cache
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\10. Lambda and LINQ\3-1. Array Data\bin\Debug\_3_1.Array_Data.exe.config
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\10. Lambda and LINQ\3-1. Array Data\bin\Debug\_3_1.Array_Data.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\10. Lambda and LINQ\3-1. Array Data\bin\Debug\_3_1.Array_Data.pdb
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\10. Lambda and LINQ\3-1. Array Data\obj\Debug\_3_1.Array_Data.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\10. Lambda and LINQ\3-1. Array Data\obj\Debug\_3_1.Array_Data.pdb
