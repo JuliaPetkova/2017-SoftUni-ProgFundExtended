@@ -1,0 +1,6 @@
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\10. Lambda and LINQ\2-6. CottageScraper\bin\Debug\_2_6.CottageScraper.exe.config
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\10. Lambda and LINQ\2-6. CottageScraper\bin\Debug\_2_6.CottageScraper.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\10. Lambda and LINQ\2-6. CottageScraper\bin\Debug\_2_6.CottageScraper.pdb
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\10. Lambda and LINQ\2-6. CottageScraper\obj\Debug\2-6. CottageScraper.csprojResolveAssemblyReference.cache
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\10. Lambda and LINQ\2-6. CottageScraper\obj\Debug\_2_6.CottageScraper.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\10. Lambda and LINQ\2-6. CottageScraper\obj\Debug\_2_6.CottageScraper.pdb

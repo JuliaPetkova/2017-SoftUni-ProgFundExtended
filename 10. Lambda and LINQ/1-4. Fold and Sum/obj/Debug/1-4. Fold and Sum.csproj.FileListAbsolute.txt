@@ -1,0 +1,11 @@
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\Lambda and LINQ\1-4. Fold and Sum\bin\Debug\_1_4.Fold_and_Sum.exe.config
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\Lambda and LINQ\1-4. Fold and Sum\bin\Debug\_1_4.Fold_and_Sum.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\Lambda and LINQ\1-4. Fold and Sum\bin\Debug\_1_4.Fold_and_Sum.pdb
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\Lambda and LINQ\1-4. Fold and Sum\obj\Debug\_1_4.Fold_and_Sum.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\Lambda and LINQ\1-4. Fold and Sum\obj\Debug\_1_4.Fold_and_Sum.pdb
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\10. Lambda and LINQ\1-4. Fold and Sum\bin\Debug\_1_4.Fold_and_Sum.exe.config
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\10. Lambda and LINQ\1-4. Fold and Sum\bin\Debug\_1_4.Fold_and_Sum.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\10. Lambda and LINQ\1-4. Fold and Sum\bin\Debug\_1_4.Fold_and_Sum.pdb
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\10. Lambda and LINQ\1-4. Fold and Sum\obj\Debug\1-4. Fold and Sum.csprojResolveAssemblyReference.cache
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\10. Lambda and LINQ\1-4. Fold and Sum\obj\Debug\_1_4.Fold_and_Sum.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\10. Lambda and LINQ\1-4. Fold and Sum\obj\Debug\_1_4.Fold_and_Sum.pdb

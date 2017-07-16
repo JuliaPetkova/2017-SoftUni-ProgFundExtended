@@ -1,0 +1,6 @@
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\10. Lambda and LINQ\2-1. Registered Users\bin\Debug\_2_1.Registered_Users.exe.config
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\10. Lambda and LINQ\2-1. Registered Users\bin\Debug\_2_1.Registered_Users.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\10. Lambda and LINQ\2-1. Registered Users\bin\Debug\_2_1.Registered_Users.pdb
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\10. Lambda and LINQ\2-1. Registered Users\obj\Debug\2-1. Registered Users.csprojResolveAssemblyReference.cache
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\10. Lambda and LINQ\2-1. Registered Users\obj\Debug\_2_1.Registered_Users.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\10. Lambda and LINQ\2-1. Registered Users\obj\Debug\_2_1.Registered_Users.pdb

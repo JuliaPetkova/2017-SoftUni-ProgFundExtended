@@ -1,0 +1,6 @@
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\10. Lambda and LINQ\2-2. Default Values\bin\Debug\_2_2.Default_Values.exe.config
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\10. Lambda and LINQ\2-2. Default Values\bin\Debug\_2_2.Default_Values.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\10. Lambda and LINQ\2-2. Default Values\bin\Debug\_2_2.Default_Values.pdb
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\10. Lambda and LINQ\2-2. Default Values\obj\Debug\2-2. Default Values.csprojResolveAssemblyReference.cache
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\10. Lambda and LINQ\2-2. Default Values\obj\Debug\_2_2.Default_Values.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\10. Lambda and LINQ\2-2. Default Values\obj\Debug\_2_2.Default_Values.pdb

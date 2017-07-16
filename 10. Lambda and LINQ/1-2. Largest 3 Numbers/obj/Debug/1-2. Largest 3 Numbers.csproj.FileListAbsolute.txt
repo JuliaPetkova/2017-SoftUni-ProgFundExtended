@@ -1,0 +1,5 @@
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\Lambda and LINQ\1-2. Largest 3 Numbers\bin\Debug\_1_2.Largest_3_Numbers.exe.config
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\Lambda and LINQ\1-2. Largest 3 Numbers\bin\Debug\_1_2.Largest_3_Numbers.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\Lambda and LINQ\1-2. Largest 3 Numbers\bin\Debug\_1_2.Largest_3_Numbers.pdb
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\Lambda and LINQ\1-2. Largest 3 Numbers\obj\Debug\_1_2.Largest_3_Numbers.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\Lambda and LINQ\1-2. Largest 3 Numbers\obj\Debug\_1_2.Largest_3_Numbers.pdb

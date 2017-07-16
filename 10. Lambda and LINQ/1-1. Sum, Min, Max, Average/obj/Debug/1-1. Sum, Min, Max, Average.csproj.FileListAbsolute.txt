@@ -1,0 +1,6 @@
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\Lambda and LINQ\1-1. Sum, Min, Max, Average\bin\Debug\_1_1.Sum__Min__Max__Average.exe.config
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\Lambda and LINQ\1-1. Sum, Min, Max, Average\bin\Debug\_1_1.Sum__Min__Max__Average.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\Lambda and LINQ\1-1. Sum, Min, Max, Average\bin\Debug\_1_1.Sum__Min__Max__Average.pdb
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\Lambda and LINQ\1-1. Sum, Min, Max, Average\obj\Debug\1-1. Sum, Min, Max, Average.csprojResolveAssemblyReference.cache
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\Lambda and LINQ\1-1. Sum, Min, Max, Average\obj\Debug\_1_1.Sum__Min__Max__Average.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\Lambda and LINQ\1-1. Sum, Min, Max, Average\obj\Debug\_1_1.Sum__Min__Max__Average.pdb

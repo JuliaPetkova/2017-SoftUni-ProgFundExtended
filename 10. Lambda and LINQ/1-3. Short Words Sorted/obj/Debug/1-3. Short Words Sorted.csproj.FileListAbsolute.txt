@@ -1,0 +1,6 @@
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\Lambda and LINQ\1-3. Short Words Sorted\bin\Debug\_1_3.Short_Words_Sorted.exe.config
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\Lambda and LINQ\1-3. Short Words Sorted\bin\Debug\_1_3.Short_Words_Sorted.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\Lambda and LINQ\1-3. Short Words Sorted\bin\Debug\_1_3.Short_Words_Sorted.pdb
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\Lambda and LINQ\1-3. Short Words Sorted\obj\Debug\1-3. Short Words Sorted.csprojResolveAssemblyReference.cache
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\Lambda and LINQ\1-3. Short Words Sorted\obj\Debug\_1_3.Short_Words_Sorted.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\Lambda and LINQ\1-3. Short Words Sorted\obj\Debug\_1_3.Short_Words_Sorted.pdb
