@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{D4F8C3DF-ED81-45FF-BFC6-1A5E578F262D}</ProjectGuid>
+    <ProjectGuid>{ED8BAA96-92C1-4D82-B5C3-3228832B2B55}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_2_1.Registered_Users</RootNamespace>
-    <AssemblyName>_2_1.Registered_Users</AssemblyName>
+    <RootNamespace>_2_4.SoftUni_Beer_Pong</RootNamespace>
+    <AssemblyName>_2_4.SoftUni_Beer_Pong</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -42,7 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="2-1. Registered Users.cs" />
+    <Compile Include="2-4. SoftUni Beer Pong .cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

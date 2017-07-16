@@ -1,0 +1,6 @@
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\10. Lambda and LINQ\2-3. Shopping Spree\bin\Debug\_2_3.Shopping_Spree.exe.config
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\10. Lambda and LINQ\2-3. Shopping Spree\bin\Debug\_2_3.Shopping_Spree.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\10. Lambda and LINQ\2-3. Shopping Spree\bin\Debug\_2_3.Shopping_Spree.pdb
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\10. Lambda and LINQ\2-3. Shopping Spree\obj\Debug\2-3. Shopping Spree.csprojResolveAssemblyReference.cache
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\10. Lambda and LINQ\2-3. Shopping Spree\obj\Debug\_2_3.Shopping_Spree.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\10. Lambda and LINQ\2-3. Shopping Spree\obj\Debug\_2_3.Shopping_Spree.pdb

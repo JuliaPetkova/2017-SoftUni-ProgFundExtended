@@ -1,0 +1,6 @@
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\10. Lambda and LINQ\2-4. SoftUni Beer Pong\bin\Debug\_2_4.SoftUni_Beer_Pong.exe.config
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\10. Lambda and LINQ\2-4. SoftUni Beer Pong\bin\Debug\_2_4.SoftUni_Beer_Pong.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\10. Lambda and LINQ\2-4. SoftUni Beer Pong\bin\Debug\_2_4.SoftUni_Beer_Pong.pdb
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\10. Lambda and LINQ\2-4. SoftUni Beer Pong\obj\Debug\2-4. SoftUni Beer Pong.csprojResolveAssemblyReference.cache
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\10. Lambda and LINQ\2-4. SoftUni Beer Pong\obj\Debug\_2_4.SoftUni_Beer_Pong.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\10. Lambda and LINQ\2-4. SoftUni Beer Pong\obj\Debug\_2_4.SoftUni_Beer_Pong.pdb

@@ -21,6 +21,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2-2. Default Values", "2-2.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2-5. Flatten Dictionary-Var", "2-5. Flatten Dictionary-Var\2-5. Flatten Dictionary-Var.csproj", "{9ECF50A1-4BAA-4E0A-B73E-61DD5A8D398C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2-3. Shopping Spree", "2-3. Shopping Spree\2-3. Shopping Spree.csproj", "{CCB95876-867C-450D-BBA3-6F27DC0C66A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2-4. SoftUni Beer Pong", "2-4. SoftUni Beer Pong\2-4. SoftUni Beer Pong.csproj", "{ED8BAA96-92C1-4D82-B5C3-3228832B2B55}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +67,14 @@ Global
 		{9ECF50A1-4BAA-4E0A-B73E-61DD5A8D398C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9ECF50A1-4BAA-4E0A-B73E-61DD5A8D398C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9ECF50A1-4BAA-4E0A-B73E-61DD5A8D398C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCB95876-867C-450D-BBA3-6F27DC0C66A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCB95876-867C-450D-BBA3-6F27DC0C66A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCB95876-867C-450D-BBA3-6F27DC0C66A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCB95876-867C-450D-BBA3-6F27DC0C66A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED8BAA96-92C1-4D82-B5C3-3228832B2B55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED8BAA96-92C1-4D82-B5C3-3228832B2B55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED8BAA96-92C1-4D82-B5C3-3228832B2B55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED8BAA96-92C1-4D82-B5C3-3228832B2B55}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

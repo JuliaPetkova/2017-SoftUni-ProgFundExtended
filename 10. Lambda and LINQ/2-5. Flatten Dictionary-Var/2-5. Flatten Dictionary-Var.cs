@@ -48,7 +48,7 @@ namespace _2_5.Flatten_Dictionary_Var
            
             // сортираме по големина на key
 
-            Dictionary<string, Dictionary<string, string>> orderedDataDict =
+           var orderedDataDict =
                 data
                   .OrderByDescending(x => x.Key.Length)
                   .ToDictionary(x => x.Key, x => x.Value);

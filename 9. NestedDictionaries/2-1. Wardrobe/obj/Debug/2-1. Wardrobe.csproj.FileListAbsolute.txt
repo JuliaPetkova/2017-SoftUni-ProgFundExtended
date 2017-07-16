@@ -1,0 +1,6 @@
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\9. NestedDictionaries\2-1. Wardrobe\bin\Debug\_2_1.Wardrobe.exe.config
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\9. NestedDictionaries\2-1. Wardrobe\bin\Debug\_2_1.Wardrobe.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\9. NestedDictionaries\2-1. Wardrobe\bin\Debug\_2_1.Wardrobe.pdb
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\9. NestedDictionaries\2-1. Wardrobe\obj\Debug\2-1. Wardrobe.csprojResolveAssemblyReference.cache
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\9. NestedDictionaries\2-1. Wardrobe\obj\Debug\_2_1.Wardrobe.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\9. NestedDictionaries\2-1. Wardrobe\obj\Debug\_2_1.Wardrobe.pdb

@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{D4F8C3DF-ED81-45FF-BFC6-1A5E578F262D}</ProjectGuid>
+    <ProjectGuid>{9E5EB2FD-D761-47A5-9729-78F2E8B6B8C4}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_2_1.Registered_Users</RootNamespace>
-    <AssemblyName>_2_1.Registered_Users</AssemblyName>
+    <RootNamespace>_2_1.Wardrobe</RootNamespace>
+    <AssemblyName>_2_1.Wardrobe</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -42,7 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="2-1. Registered Users.cs" />
+    <Compile Include="2-1. Wardrobe.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

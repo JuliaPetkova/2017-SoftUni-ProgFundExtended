@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{D4F8C3DF-ED81-45FF-BFC6-1A5E578F262D}</ProjectGuid>
+    <ProjectGuid>{CCB95876-867C-450D-BBA3-6F27DC0C66A7}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_2_1.Registered_Users</RootNamespace>
-    <AssemblyName>_2_1.Registered_Users</AssemblyName>
+    <RootNamespace>_2_3.Shopping_Spree</RootNamespace>
+    <AssemblyName>_2_3.Shopping_Spree</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -42,7 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="2-1. Registered Users.cs" />
+    <Compile Include="2-3. Shopping Spree.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
