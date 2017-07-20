@@ -1,0 +1,6 @@
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\10. Lambda and LINQ\7. LINQuistics\obj\Debug\7. LINQuistics.csprojResolveAssemblyReference.cache
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\10. Lambda and LINQ\7. LINQuistics\bin\Debug\_7.LINQuistics.exe.config
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\10. Lambda and LINQ\7. LINQuistics\bin\Debug\_7.LINQuistics.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\10. Lambda and LINQ\7. LINQuistics\bin\Debug\_7.LINQuistics.pdb
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\10. Lambda and LINQ\7. LINQuistics\obj\Debug\_7.LINQuistics.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\10. Lambda and LINQ\7. LINQuistics\obj\Debug\_7.LINQuistics.pdb

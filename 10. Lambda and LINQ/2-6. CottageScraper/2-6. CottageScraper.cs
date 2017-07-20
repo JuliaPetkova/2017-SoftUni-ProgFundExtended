@@ -44,12 +44,6 @@ namespace _2_6.CottageScraper
 
             Console.WriteLine($"CottageScraper subtotal: ${(usedPrice + unusedPrice):F2}");
 
-            //foreach (KeyValuePair<string, int> item in data)
-            //{
-            //    string wood = item.Key;
-            //    var heihg = item.Value;
-            //    Console.WriteLine($"{wood} -> {heihg}");
-            //}
         }
     }
 }

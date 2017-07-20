@@ -1,0 +1,6 @@
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\10. Lambda and LINQ\3-3. Camping\bin\Debug\_3_3.Camping.exe.config
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\10. Lambda and LINQ\3-3. Camping\bin\Debug\_3_3.Camping.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\10. Lambda and LINQ\3-3. Camping\bin\Debug\_3_3.Camping.pdb
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\10. Lambda and LINQ\3-3. Camping\obj\Debug\3-3. Camping.csprojResolveAssemblyReference.cache
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\10. Lambda and LINQ\3-3. Camping\obj\Debug\_3_3.Camping.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\10. Lambda and LINQ\3-3. Camping\obj\Debug\_3_3.Camping.pdb

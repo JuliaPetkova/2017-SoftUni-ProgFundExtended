@@ -1,0 +1,6 @@
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\10. Lambda and LINQ\5. Lambada Expressions\bin\Debug\_5.Lambada_Expressions.exe.config
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\10. Lambda and LINQ\5. Lambada Expressions\bin\Debug\_5.Lambada_Expressions.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\10. Lambda and LINQ\5. Lambada Expressions\bin\Debug\_5.Lambada_Expressions.pdb
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\10. Lambda and LINQ\5. Lambada Expressions\obj\Debug\5. Lambada Expressions.csprojResolveAssemblyReference.cache
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\10. Lambda and LINQ\5. Lambada Expressions\obj\Debug\_5.Lambada_Expressions.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\10. Lambda and LINQ\5. Lambada Expressions\obj\Debug\_5.Lambada_Expressions.pdb

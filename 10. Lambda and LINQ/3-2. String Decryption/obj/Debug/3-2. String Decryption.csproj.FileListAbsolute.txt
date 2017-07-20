@@ -1,0 +1,6 @@
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\10. Lambda and LINQ\3-2. String Decryption\bin\Debug\_3_2.String_Decryption.exe.config
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\10. Lambda and LINQ\3-2. String Decryption\bin\Debug\_3_2.String_Decryption.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\10. Lambda and LINQ\3-2. String Decryption\bin\Debug\_3_2.String_Decryption.pdb
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\10. Lambda and LINQ\3-2. String Decryption\obj\Debug\3-2. String Decryption.csprojResolveAssemblyReference.cache
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\10. Lambda and LINQ\3-2. String Decryption\obj\Debug\_3_2.String_Decryption.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\10. Lambda and LINQ\3-2. String Decryption\obj\Debug\_3_2.String_Decryption.pdb

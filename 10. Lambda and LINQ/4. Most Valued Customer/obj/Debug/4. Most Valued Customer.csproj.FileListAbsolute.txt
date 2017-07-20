@@ -1,0 +1,6 @@
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\10. Lambda and LINQ\4. Most Valued Customer\bin\Debug\_4.Most_Valued_Customer.exe.config
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\10. Lambda and LINQ\4. Most Valued Customer\bin\Debug\_4.Most_Valued_Customer.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\10. Lambda and LINQ\4. Most Valued Customer\bin\Debug\_4.Most_Valued_Customer.pdb
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\10. Lambda and LINQ\4. Most Valued Customer\obj\Debug\4. Most Valued Customer.csprojResolveAssemblyReference.cache
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\10. Lambda and LINQ\4. Most Valued Customer\obj\Debug\_4.Most_Valued_Customer.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\10. Lambda and LINQ\4. Most Valued Customer\obj\Debug\_4.Most_Valued_Customer.pdb
