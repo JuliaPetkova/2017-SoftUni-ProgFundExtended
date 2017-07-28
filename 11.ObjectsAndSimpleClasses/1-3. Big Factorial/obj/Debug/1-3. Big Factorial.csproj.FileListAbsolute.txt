@@ -1,0 +1,6 @@
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\11.ObjectsAndSimpleClasses\1-3. Big Factorial\bin\Debug\_1_3.Big_Factorial.exe.config
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\11.ObjectsAndSimpleClasses\1-3. Big Factorial\bin\Debug\_1_3.Big_Factorial.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\11.ObjectsAndSimpleClasses\1-3. Big Factorial\bin\Debug\_1_3.Big_Factorial.pdb
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\11.ObjectsAndSimpleClasses\1-3. Big Factorial\obj\Debug\1-3. Big Factorial.csprojResolveAssemblyReference.cache
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\11.ObjectsAndSimpleClasses\1-3. Big Factorial\obj\Debug\_1_3.Big_Factorial.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\11.ObjectsAndSimpleClasses\1-3. Big Factorial\obj\Debug\_1_3.Big_Factorial.pdb

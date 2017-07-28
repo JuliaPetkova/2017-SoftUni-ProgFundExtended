@@ -1,0 +1,6 @@
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\11.ObjectsAndSimpleClasses\1-1. Day of Week\bin\Debug\_1_1.Day_of_Week.exe.config
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\11.ObjectsAndSimpleClasses\1-1. Day of Week\bin\Debug\_1_1.Day_of_Week.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\11.ObjectsAndSimpleClasses\1-1. Day of Week\bin\Debug\_1_1.Day_of_Week.pdb
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\11.ObjectsAndSimpleClasses\1-1. Day of Week\obj\Debug\1-1. Day of Week.csprojResolveAssemblyReference.cache
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\11.ObjectsAndSimpleClasses\1-1. Day of Week\obj\Debug\_1_1.Day_of_Week.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\11.ObjectsAndSimpleClasses\1-1. Day of Week\obj\Debug\_1_1.Day_of_Week.pdb
