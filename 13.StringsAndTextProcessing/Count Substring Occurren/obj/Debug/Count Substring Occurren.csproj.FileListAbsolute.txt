@@ -1,0 +1,6 @@
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\13.StringsAndTextProcessing\Count Substring Occurren\bin\Debug\Count Substring Occurren.exe.config
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\13.StringsAndTextProcessing\Count Substring Occurren\bin\Debug\Count Substring Occurren.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\13.StringsAndTextProcessing\Count Substring Occurren\bin\Debug\Count Substring Occurren.pdb
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\13.StringsAndTextProcessing\Count Substring Occurren\obj\Debug\Count Substring Occurren.csprojResolveAssemblyReference.cache
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\13.StringsAndTextProcessing\Count Substring Occurren\obj\Debug\Count Substring Occurren.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\13.StringsAndTextProcessing\Count Substring Occurren\obj\Debug\Count Substring Occurren.pdb

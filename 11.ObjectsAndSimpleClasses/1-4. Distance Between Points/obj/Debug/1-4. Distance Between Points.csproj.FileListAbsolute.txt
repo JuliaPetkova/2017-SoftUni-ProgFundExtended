@@ -1,0 +1,6 @@
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\11.ObjectsAndSimpleClasses\1-4. Distance Between Points\bin\Debug\_1_4.Distance_Between_Points.exe.config
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\11.ObjectsAndSimpleClasses\1-4. Distance Between Points\bin\Debug\_1_4.Distance_Between_Points.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\11.ObjectsAndSimpleClasses\1-4. Distance Between Points\bin\Debug\_1_4.Distance_Between_Points.pdb
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\11.ObjectsAndSimpleClasses\1-4. Distance Between Points\obj\Debug\1-4. Distance Between Points.csprojResolveAssemblyReference.cache
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\11.ObjectsAndSimpleClasses\1-4. Distance Between Points\obj\Debug\_1_4.Distance_Between_Points.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\11.ObjectsAndSimpleClasses\1-4. Distance Between Points\obj\Debug\_1_4.Distance_Between_Points.pdb

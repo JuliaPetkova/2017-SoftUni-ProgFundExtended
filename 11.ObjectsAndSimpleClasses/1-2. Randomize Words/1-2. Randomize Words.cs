@@ -10,20 +10,20 @@ namespace _1_2.Randomize_Words
     {
         static void Main(string[] args)
         {
-            string[] input = Console.ReadLine().Split();
-            Random rnd = new Random();
+            var input = Console.ReadLine().Split().ToArray();
+            var random = new Random();
 
             for (int i = 0; i < input.Length; i++)
             {
-                var temp = input[i];
+                var randomPosition = random.Next(0, input.Length);
 
-                var rndPos = rnd.Next(0, input.Length);
-
-                input[i] = input[rndPos];
-                input[rndPos] = temp;
+                var temp = input[randomPosition];
+                input[randomPosition] = input[i];
+                input[i] = temp;
             }
 
             Console.WriteLine(string.Join("\r\n", input));
+
         }
     }
 }

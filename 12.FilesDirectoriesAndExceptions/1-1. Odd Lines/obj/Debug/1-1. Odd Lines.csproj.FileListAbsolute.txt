@@ -1,0 +1,6 @@
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\12.FilesDirectoriesAndExceptions\1-1. Odd Lines\bin\Debug\_1_1.Odd_Lines.exe.config
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\12.FilesDirectoriesAndExceptions\1-1. Odd Lines\bin\Debug\_1_1.Odd_Lines.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\12.FilesDirectoriesAndExceptions\1-1. Odd Lines\bin\Debug\_1_1.Odd_Lines.pdb
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\12.FilesDirectoriesAndExceptions\1-1. Odd Lines\obj\Debug\_1_1.Odd_Lines.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\12.FilesDirectoriesAndExceptions\1-1. Odd Lines\obj\Debug\_1_1.Odd_Lines.pdb
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\12.FilesDirectoriesAndExceptions\1-1. Odd Lines\obj\Debug\1-1. Odd Lines.csprojResolveAssemblyReference.cache

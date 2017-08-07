@@ -1,0 +1,6 @@
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\12.FilesDirectoriesAndExceptions\I. File Operations\bin\Debug\I.File_Operations.exe.config
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\12.FilesDirectoriesAndExceptions\I. File Operations\bin\Debug\I.File_Operations.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\12.FilesDirectoriesAndExceptions\I. File Operations\bin\Debug\I.File_Operations.pdb
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\12.FilesDirectoriesAndExceptions\I. File Operations\obj\Debug\I. File Operations.csprojResolveAssemblyReference.cache
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\12.FilesDirectoriesAndExceptions\I. File Operations\obj\Debug\I.File_Operations.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\12.FilesDirectoriesAndExceptions\I. File Operations\obj\Debug\I.File_Operations.pdb

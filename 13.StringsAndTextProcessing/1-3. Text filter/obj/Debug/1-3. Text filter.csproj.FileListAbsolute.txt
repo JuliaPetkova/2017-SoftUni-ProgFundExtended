@@ -1,0 +1,6 @@
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\13.StringsAndTextProcessing\1-3. Text filter\bin\Debug\_1_3.Text_filter.exe.config
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\13.StringsAndTextProcessing\1-3. Text filter\bin\Debug\_1_3.Text_filter.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\13.StringsAndTextProcessing\1-3. Text filter\bin\Debug\_1_3.Text_filter.pdb
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\13.StringsAndTextProcessing\1-3. Text filter\obj\Debug\1-3. Text filter.csprojResolveAssemblyReference.cache
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\13.StringsAndTextProcessing\1-3. Text filter\obj\Debug\_1_3.Text_filter.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\13.StringsAndTextProcessing\1-3. Text filter\obj\Debug\_1_3.Text_filter.pdb

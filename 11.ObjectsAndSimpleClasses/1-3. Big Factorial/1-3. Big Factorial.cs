@@ -19,6 +19,11 @@ namespace _1_3.Big_Factorial
                 f = f * i;
             }
             Console.WriteLine(f);
+
+
+
+
+
         }
     }
 }

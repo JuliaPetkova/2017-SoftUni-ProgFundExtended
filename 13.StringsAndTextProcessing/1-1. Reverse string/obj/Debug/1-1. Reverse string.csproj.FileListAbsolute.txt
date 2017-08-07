@@ -1,0 +1,6 @@
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\13.StringsAndTextProcessing\1-1. Reverse string\bin\Debug\_1_1.Reverse_string.exe.config
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\13.StringsAndTextProcessing\1-1. Reverse string\bin\Debug\_1_1.Reverse_string.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\13.StringsAndTextProcessing\1-1. Reverse string\bin\Debug\_1_1.Reverse_string.pdb
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\13.StringsAndTextProcessing\1-1. Reverse string\obj\Debug\1-1. Reverse string.csprojResolveAssemblyReference.cache
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\13.StringsAndTextProcessing\1-1. Reverse string\obj\Debug\_1_1.Reverse_string.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\13.StringsAndTextProcessing\1-1. Reverse string\obj\Debug\_1_1.Reverse_string.pdb
