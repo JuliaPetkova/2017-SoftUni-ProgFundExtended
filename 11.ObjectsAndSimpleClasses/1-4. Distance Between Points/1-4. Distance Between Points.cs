@@ -10,14 +10,28 @@ namespace _1_4.Distance_Between_Points
     {
         static void Main(string[] args)
         {
-            var point1 = Console.ReadLine().Split().Select(int.Parse).ToArray();
-            var point2 = Console.ReadLine().Split().Select(int.Parse).ToArray();
+            Point first = ReadCoordinates(Console.ReadLine());
+            Point second = ReadCoordinates(Console.ReadLine());
 
-            int a = Math.Abs(point1[0] - point2[0]);
-            int b = Math.Abs(point1[1] - point2[1]);
+            Console.WriteLine("{0:F3}", CalcDist(first, second));
 
-            var c = Math.Sqrt(Math.Pow(a, 2) + Math.Pow(b, 2));
-            Console.WriteLine($"{c:F3}");
         }
+
+        private static double CalcDist(Point first, Point second)
+        {
+            double distance = Math.Sqrt(Math.Pow((first.X - second.X), 2) + Math.Pow((first.Y - second.Y), 2));
+            return distance;
+        }
+
+        private static Point ReadCoordinates(string input)
+        {
+            var coord = input.Split().Select(int.Parse).ToArray();
+            return new Point() { X = coord[0], Y = coord[1]};
+        }
+    }
+    class Point
+    {
+        public int X { get; set; }
+        public int Y { get; set; }
     }
 }
