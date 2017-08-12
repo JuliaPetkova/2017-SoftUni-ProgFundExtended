@@ -1,9 +1,11 @@
 {
   "ExpandedNodes": [
     "",
+    "\\13.StringsAndTextProcessing",
+    "\\13.StringsAndTextProcessing\\1-1. Reverse string",
     "\\8. Dictionaries",
     "\\8. Dictionaries\\2-6. Filter Base"
   ],
-  "SelectedNode": "\\8. Dictionaries\\8. Dictionaries.sln",
+  "SelectedNode": "\\13.StringsAndTextProcessing\\1-1. Reverse string\\1-1. Reverse string.cs",
   "PreviewInSolutionExplorer": false
 }
