@@ -1,0 +1,6 @@
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\11.ObjectsAndSimpleClasses\6. Rectangle Position\bin\Debug\_6.Rectangle_Position.exe.config
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\11.ObjectsAndSimpleClasses\6. Rectangle Position\bin\Debug\_6.Rectangle_Position.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\11.ObjectsAndSimpleClasses\6. Rectangle Position\bin\Debug\_6.Rectangle_Position.pdb
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\11.ObjectsAndSimpleClasses\6. Rectangle Position\obj\Debug\1-6. Rectangle Position.csprojResolveAssemblyReference.cache
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\11.ObjectsAndSimpleClasses\6. Rectangle Position\obj\Debug\_6.Rectangle_Position.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\11.ObjectsAndSimpleClasses\6. Rectangle Position\obj\Debug\_6.Rectangle_Position.pdb

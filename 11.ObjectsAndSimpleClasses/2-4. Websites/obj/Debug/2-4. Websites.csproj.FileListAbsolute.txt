@@ -1,0 +1,6 @@
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\11.ObjectsAndSimpleClasses\2-4. Websites\bin\Debug\_2_4.Websites.exe.config
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\11.ObjectsAndSimpleClasses\2-4. Websites\bin\Debug\_2_4.Websites.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\11.ObjectsAndSimpleClasses\2-4. Websites\bin\Debug\_2_4.Websites.pdb
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\11.ObjectsAndSimpleClasses\2-4. Websites\obj\Debug\2-4. Websites.csprojResolveAssemblyReference.cache
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\11.ObjectsAndSimpleClasses\2-4. Websites\obj\Debug\_2_4.Websites.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\11.ObjectsAndSimpleClasses\2-4. Websites\obj\Debug\_2_4.Websites.pdb

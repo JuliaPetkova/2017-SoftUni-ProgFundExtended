@@ -1,0 +1,6 @@
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\11.ObjectsAndSimpleClasses\7. Sales Report\bin\Debug\_7.Sales_Report.exe.config
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\11.ObjectsAndSimpleClasses\7. Sales Report\bin\Debug\_7.Sales_Report.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\11.ObjectsAndSimpleClasses\7. Sales Report\bin\Debug\_7.Sales_Report.pdb
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\11.ObjectsAndSimpleClasses\7. Sales Report\obj\Debug\_7.Sales_Report.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\11.ObjectsAndSimpleClasses\7. Sales Report\obj\Debug\_7.Sales_Report.pdb
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\11.ObjectsAndSimpleClasses\7. Sales Report\obj\Debug\1-7. Sales Report.csprojResolveAssemblyReference.cache

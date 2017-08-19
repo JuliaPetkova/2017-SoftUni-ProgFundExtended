@@ -1,37 +1,42 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace _1_4.Distance_Between_Points
+namespace _4_Distance
 {
+
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
-            Point first = ReadCoordinates(Console.ReadLine());
-            Point second = ReadCoordinates(Console.ReadLine());
+            Point p1 = ReadPoint(Console.ReadLine());
+            Point p2 = ReadPoint(Console.ReadLine());
 
-            Console.WriteLine("{0:F3}", CalcDist(first, second));
+            Console.WriteLine("{0:F3}", DistanceCalculation(p1, p2));
 
         }
 
-        private static double CalcDist(Point first, Point second)
+        private static double DistanceCalculation(Point p1, Point p2)
         {
-            double distance = Math.Sqrt(Math.Pow((first.X - second.X), 2) + Math.Pow((first.Y - second.Y), 2));
+            double aSqr = Math.Pow((p1.X - p2.X), 2);
+            double bSqr = Math.Pow((p1.Y - p2.Y), 2);
+
+            double distance = Math.Sqrt(aSqr+bSqr);
+
             return distance;
         }
 
-        private static Point ReadCoordinates(string input)
+        private static Point ReadPoint(string input)
         {
-            var coord = input.Split().Select(int.Parse).ToArray();
-            return new Point() { X = coord[0], Y = coord[1]};
+            double[] parameters = input.Split().Select(double.Parse).ToArray();
+
+            Point point = new Point() { X = parameters[0], Y = parameters[1] };
+            return point;
         }
     }
     class Point
     {
-        public int X { get; set; }
-        public int Y { get; set; }
+        public double X { get; set; }
+        public double Y { get; set; }
     }
 }

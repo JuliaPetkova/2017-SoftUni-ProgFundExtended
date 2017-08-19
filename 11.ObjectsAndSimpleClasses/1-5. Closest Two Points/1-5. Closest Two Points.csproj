@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{194FE644-2BC0-4A8D-9F5E-13ACFEDB2A6C}</ProjectGuid>
+    <ProjectGuid>{B7757766-096E-417F-BFFE-4623E8B813B2}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>_1_5.Closest_Two_Points</RootNamespace>
     <AssemblyName>_1_5.Closest_Two_Points</AssemblyName>
@@ -44,7 +44,6 @@
   <ItemGroup>
     <Compile Include="1-5. Closest Two Points.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="ReadPoint-2.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

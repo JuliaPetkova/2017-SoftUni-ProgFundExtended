@@ -1,0 +1,6 @@
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\11.ObjectsAndSimpleClasses\2-2. Optimized Banking System\bin\Debug\_2_2.Optimized_Banking_System.exe.config
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\11.ObjectsAndSimpleClasses\2-2. Optimized Banking System\bin\Debug\_2_2.Optimized_Banking_System.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\11.ObjectsAndSimpleClasses\2-2. Optimized Banking System\bin\Debug\_2_2.Optimized_Banking_System.pdb
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\11.ObjectsAndSimpleClasses\2-2. Optimized Banking System\obj\Debug\2-2. Optimized Banking System.csprojResolveAssemblyReference.cache
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\11.ObjectsAndSimpleClasses\2-2. Optimized Banking System\obj\Debug\_2_2.Optimized_Banking_System.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\11.ObjectsAndSimpleClasses\2-2. Optimized Banking System\obj\Debug\_2_2.Optimized_Banking_System.pdb

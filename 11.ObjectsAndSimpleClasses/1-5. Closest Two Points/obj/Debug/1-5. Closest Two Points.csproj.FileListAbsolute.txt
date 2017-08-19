@@ -1,0 +1,6 @@
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\11.ObjectsAndSimpleClasses\1-5. Closest Two Points\bin\Debug\_1_5.Closest_Two_Points.exe.config
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\11.ObjectsAndSimpleClasses\1-5. Closest Two Points\bin\Debug\_1_5.Closest_Two_Points.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\11.ObjectsAndSimpleClasses\1-5. Closest Two Points\bin\Debug\_1_5.Closest_Two_Points.pdb
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\11.ObjectsAndSimpleClasses\1-5. Closest Two Points\obj\Debug\1-5. Closest Two Points.csprojResolveAssemblyReference.cache
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\11.ObjectsAndSimpleClasses\1-5. Closest Two Points\obj\Debug\_1_5.Closest_Two_Points.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\11.ObjectsAndSimpleClasses\1-5. Closest Two Points\obj\Debug\_1_5.Closest_Two_Points.pdb
