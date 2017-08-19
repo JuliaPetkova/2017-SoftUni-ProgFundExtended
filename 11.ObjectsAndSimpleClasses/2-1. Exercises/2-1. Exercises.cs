@@ -6,26 +6,47 @@ namespace _01.Exercises
 {
     class Program
     {
+        class Exercice
+        {
+            public string Topic { get; set; }
+            public string CourseName { get; set; }
+            public string JudgeContestLink { get; set; }
+            public List<string> Problems { get; set; }
+
+            public Exercice(string topic, string courseName, string judgeContestLink, List<string> problems)
+            {
+                Topic = topic;
+                CourseName = courseName;
+                JudgeContestLink = judgeContestLink;
+                Problems = problems;
+            }
+
+        }
         static void Main()
         {
-            List<Exercise> exercises = new List<Exercise>();
+            List<Exercice> exercises = new List<Exercice>();
 
-            string input = Console.ReadLine();
+            var input = Console.ReadLine();
 
             while (input != "go go go")
             {
                 string[] param = input
-                    .Split(new string[] { " -> " },
-                           StringSplitOptions.RemoveEmptyEntries);
+                    .Split(new string[] { " -> " }, StringSplitOptions.RemoveEmptyEntries)
+                    .ToArray();
 
                 string topic = param[0];
-                string className = param[1];
-                string judgeLink = param[2];
-                List<string> problems = param[3]
-                    .Split(new string[] { ", " }, StringSplitOptions.RemoveEmptyEntries)
+                string courseName = param[1];
+                string judgeContestLink = param[2];
+
+                List<string> problems = param[3].Split(new string[] { ", " },
+                    StringSplitOptions.RemoveEmptyEntries)
                     .ToList();
-                                
-                exercises.Add(new Exercise(topic, className, judgeLink, problems));
+
+                Exercice exersice = new Exercice(topic, courseName, judgeContestLink, problems);
+                if (!exercises.Contains(exersice))
+                {
+                    exercises.Add(exersice);
+                }
 
                 input = Console.ReadLine();
             }
@@ -33,34 +54,16 @@ namespace _01.Exercises
             foreach (var exercise in exercises)
             {
                 Console.WriteLine($"Exercises: {exercise.Topic}");
-
-                Console.WriteLine(
-                    $"Problems for exercises and homework for the \"{exercise.ClassName}\" course @ SoftUni.");
-
-                Console.WriteLine($"Check your solutions here: { exercise.JudgeLink}");
+                Console.WriteLine($"Problems for exercises and homework for the \"{exercise.CourseName}\" course @ SoftUni.");
+                Console.WriteLine($"Check your solutions here: {exercise.JudgeContestLink}");
 
                 int cnt = 1;
                 foreach (var problem in exercise.Problems)
                 {
-                    Console.WriteLine("{0}. {1}", cnt, problem);
-                    ++cnt;
+                    Console.WriteLine($"{cnt}. {problem}");
+                    cnt++;
                 }
             }
-        }
-    }
-    class Exercise
-    {
-        public string Topic { get; set; }
-        public string ClassName { get; set; }
-        public string JudgeLink { get; set; }
-        public List<string> Problems { get; set; }
-
-        public Exercise(string topic, string className, string judgeLink, List<string> problems)
-        {
-            Topic = topic;
-            ClassName = className;
-            JudgeLink = judgeLink;
-            Problems = problems;
         }
     }
 }
