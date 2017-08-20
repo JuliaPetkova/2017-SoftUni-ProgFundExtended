@@ -10,7 +10,9 @@ namespace _1_1.Reverse_string
     {
         static void Main(string[] args)
         {
-
+            string input = Console.ReadLine();
+            var result = input.Reverse();
+            Console.WriteLine(string.Join("", result));
         }
     }
 }
