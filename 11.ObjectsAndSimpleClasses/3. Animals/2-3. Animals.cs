@@ -20,7 +20,6 @@ namespace _03.Animals
         {
             Console.WriteLine("I'm a Distinguishedog, and I will now produce a distinguished sound! Bau Bau.");
         }
-
     }
     class Cat
     {
@@ -37,7 +36,6 @@ namespace _03.Animals
         {
             Console.WriteLine("I'm an Aristocat, and I will now produce an aristocratic sound! Myau Myau.");
         }
-
     }
 
     class Snake
@@ -55,7 +53,6 @@ namespace _03.Animals
         {
             Console.WriteLine("I'm a Sophistisnake, and I will now produce a sophisticated sound! Honey, I'm home.");
         }
-
     }
 
     class Animals
@@ -68,13 +65,13 @@ namespace _03.Animals
 
             var input = Console.ReadLine();
 
-            while (input != "I’m your Huckleberry")
+            while (input != "I'm your Huckleberry")
             {
                 var param = input.Split().ToArray();
 
                 if (param.Length > 2)
                 {
-                    var type = param[0];
+                    string type = param[0];
                     string name = param[1];
                     int age = int.Parse(param[2]);
                     int parameter = int.Parse(param[3]);
@@ -95,10 +92,10 @@ namespace _03.Animals
                         default:
                             break;
                     }
-  
+
                 }
                 else
-                {                    
+                {
                     string name = param[1];
 
                     foreach (var dog in dogs)
@@ -122,9 +119,7 @@ namespace _03.Animals
                             snake.Sound();
                         }
                     }
-
                 }
-
                 input = Console.ReadLine();
             }
 
@@ -132,17 +127,14 @@ namespace _03.Animals
             {
                 Console.WriteLine($"Dog: {dog.Name}, Age: {dog.Age}, Number Of Legs: {dog.Parameter}");
             }
-
             foreach (var cat in cats)
             {
                 Console.WriteLine($"Cat: {cat.Name}, Age: {cat.Age}, IQ: {cat.Parameter}");
             }
-
             foreach (var snake in snakes)
             {
                 Console.WriteLine($"Snake: {snake.Name}, Age: {snake.Age}, Cruelty: {snake.Parameter}");
             }
-
         }
     }
 }

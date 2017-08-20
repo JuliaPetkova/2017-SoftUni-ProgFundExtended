@@ -11,7 +11,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-3. Text filter", "1-3. Te
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-4. Palindromes", "1-4. Palindromes\1-4. Palindromes.csproj", "{923F696C-C5C1-48F4-A3A4-6DF339AFDAA6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-4. Palindromes-2", "1-4. Palindromes-2\1-4. Palindromes-2.csproj", "{36FD2319-5594-476F-89F6-31DC611FC85A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-4. Palindromes-Reverse", "1-4. Palindromes-2\1-4. Palindromes-Reverse.csproj", "{36FD2319-5594-476F-89F6-31DC611FC85A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2-1. Find the Letter", "2-1. Find the Letter\2-1. Find the Letter.csproj", "{D03DFC97-CF7A-4802-B54B-B2DBF73548DA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{36FD2319-5594-476F-89F6-31DC611FC85A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{36FD2319-5594-476F-89F6-31DC611FC85A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{36FD2319-5594-476F-89F6-31DC611FC85A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D03DFC97-CF7A-4802-B54B-B2DBF73548DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D03DFC97-CF7A-4802-B54B-B2DBF73548DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D03DFC97-CF7A-4802-B54B-B2DBF73548DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D03DFC97-CF7A-4802-B54B-B2DBF73548DA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

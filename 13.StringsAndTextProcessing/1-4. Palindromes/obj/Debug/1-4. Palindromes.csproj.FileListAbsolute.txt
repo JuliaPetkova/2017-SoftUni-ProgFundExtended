@@ -1,0 +1,6 @@
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\13.StringsAndTextProcessing\1-4. Palindromes\bin\Debug\_1_4.Palindromes.exe.config
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\13.StringsAndTextProcessing\1-4. Palindromes\bin\Debug\_1_4.Palindromes.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\13.StringsAndTextProcessing\1-4. Palindromes\bin\Debug\_1_4.Palindromes.pdb
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\13.StringsAndTextProcessing\1-4. Palindromes\obj\Debug\1-4. Palindromes.csprojResolveAssemblyReference.cache
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\13.StringsAndTextProcessing\1-4. Palindromes\obj\Debug\_1_4.Palindromes.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\13.StringsAndTextProcessing\1-4. Palindromes\obj\Debug\_1_4.Palindromes.pdb
