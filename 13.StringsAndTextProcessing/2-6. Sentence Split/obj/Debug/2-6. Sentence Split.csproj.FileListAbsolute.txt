@@ -1,0 +1,5 @@
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\13.StringsAndTextProcessing\2-6. Sentence Split\bin\Debug\_2_6.Sentence_Split.exe.config
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\13.StringsAndTextProcessing\2-6. Sentence Split\bin\Debug\_2_6.Sentence_Split.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\13.StringsAndTextProcessing\2-6. Sentence Split\bin\Debug\_2_6.Sentence_Split.pdb
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\13.StringsAndTextProcessing\2-6. Sentence Split\obj\Debug\_2_6.Sentence_Split.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\13.StringsAndTextProcessing\2-6. Sentence Split\obj\Debug\_2_6.Sentence_Split.pdb

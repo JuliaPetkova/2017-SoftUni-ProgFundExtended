@@ -1,0 +1,6 @@
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\13.StringsAndTextProcessing\2-2. Placeholders\bin\Debug\_2_2.Placeholders.exe.config
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\13.StringsAndTextProcessing\2-2. Placeholders\bin\Debug\_2_2.Placeholders.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\13.StringsAndTextProcessing\2-2. Placeholders\bin\Debug\_2_2.Placeholders.pdb
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\13.StringsAndTextProcessing\2-2. Placeholders\obj\Debug\2-2. Placeholders.csprojResolveAssemblyReference.cache
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\13.StringsAndTextProcessing\2-2. Placeholders\obj\Debug\_2_2.Placeholders.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\13.StringsAndTextProcessing\2-2. Placeholders\obj\Debug\_2_2.Placeholders.pdb

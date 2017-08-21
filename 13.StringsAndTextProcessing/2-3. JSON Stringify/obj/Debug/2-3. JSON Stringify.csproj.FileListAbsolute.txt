@@ -1,0 +1,6 @@
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\13.StringsAndTextProcessing\2-3. JSON Stringify\bin\Debug\_2_3.JSON_Stringify.exe.config
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\13.StringsAndTextProcessing\2-3. JSON Stringify\bin\Debug\_2_3.JSON_Stringify.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\13.StringsAndTextProcessing\2-3. JSON Stringify\bin\Debug\_2_3.JSON_Stringify.pdb
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\13.StringsAndTextProcessing\2-3. JSON Stringify\obj\Debug\2-3. JSON Stringify.csprojResolveAssemblyReference.cache
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\13.StringsAndTextProcessing\2-3. JSON Stringify\obj\Debug\_2_3.JSON_Stringify.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\13.StringsAndTextProcessing\2-3. JSON Stringify\obj\Debug\_2_3.JSON_Stringify.pdb
