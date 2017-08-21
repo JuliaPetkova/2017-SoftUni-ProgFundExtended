@@ -11,10 +11,27 @@ namespace _2_1.Find_the_Letter
         static void Main(string[] args)
         {
             string input = Console.ReadLine();
-            var searched = Console.ReadLine().Split().ToArray();
+            string[] search = Console.ReadLine().Split();
 
-            string letter = searched[0];
-            int number = int.Parse(searched[1]);
+            var letter = search[0];
+            int n = int.Parse(search[1]);
+
+            var index = -1;
+
+            do
+            {
+                n--;
+                index = input.IndexOf(letter, index + 1);
+            } while (index != -1 && n > 0);
+
+            if (index != -1)
+            {
+                Console.WriteLine(index);
+            }
+            else
+            {
+                Console.WriteLine("Find the letter yourself!");
+            }
         }
     }
 }

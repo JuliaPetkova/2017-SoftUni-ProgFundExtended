@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-4. Palindromes-Reverse", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2-1. Find the Letter", "2-1. Find the Letter\2-1. Find the Letter.csproj", "{D03DFC97-CF7A-4802-B54B-B2DBF73548DA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2-2. Placeholders", "2-2. Placeholders\2-2. Placeholders.csproj", "{5865EA81-644A-48A3-8B54-C7B9A23CFC1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2-6. Sentence Split", "2-6. Sentence Split\2-6. Sentence Split.csproj", "{BD0F785C-DE24-4CBF-8AE9-D1F18722433E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +49,14 @@ Global
 		{D03DFC97-CF7A-4802-B54B-B2DBF73548DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D03DFC97-CF7A-4802-B54B-B2DBF73548DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D03DFC97-CF7A-4802-B54B-B2DBF73548DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5865EA81-644A-48A3-8B54-C7B9A23CFC1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5865EA81-644A-48A3-8B54-C7B9A23CFC1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5865EA81-644A-48A3-8B54-C7B9A23CFC1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5865EA81-644A-48A3-8B54-C7B9A23CFC1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD0F785C-DE24-4CBF-8AE9-D1F18722433E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD0F785C-DE24-4CBF-8AE9-D1F18722433E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD0F785C-DE24-4CBF-8AE9-D1F18722433E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD0F785C-DE24-4CBF-8AE9-D1F18722433E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
