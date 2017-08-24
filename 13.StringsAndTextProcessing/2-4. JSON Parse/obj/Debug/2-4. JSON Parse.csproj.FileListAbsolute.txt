@@ -1,0 +1,6 @@
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\13.StringsAndTextProcessing\2-4. JSON Parse\bin\Debug\_2_4.JSON_Parse.exe.config
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\13.StringsAndTextProcessing\2-4. JSON Parse\bin\Debug\_2_4.JSON_Parse.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\13.StringsAndTextProcessing\2-4. JSON Parse\bin\Debug\_2_4.JSON_Parse.pdb
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\13.StringsAndTextProcessing\2-4. JSON Parse\obj\Debug\2-4. JSON Parse.csprojResolveAssemblyReference.cache
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\13.StringsAndTextProcessing\2-4. JSON Parse\obj\Debug\_2_4.JSON_Parse.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\13.StringsAndTextProcessing\2-4. JSON Parse\obj\Debug\_2_4.JSON_Parse.pdb

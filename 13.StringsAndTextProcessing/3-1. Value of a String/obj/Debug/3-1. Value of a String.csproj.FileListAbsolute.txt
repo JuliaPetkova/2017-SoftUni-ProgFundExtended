@@ -1,0 +1,6 @@
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\13.StringsAndTextProcessing\3-1. Value of a String\bin\Debug\_3_1.Value_of_a_String.exe.config
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\13.StringsAndTextProcessing\3-1. Value of a String\bin\Debug\_3_1.Value_of_a_String.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\13.StringsAndTextProcessing\3-1. Value of a String\bin\Debug\_3_1.Value_of_a_String.pdb
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\13.StringsAndTextProcessing\3-1. Value of a String\obj\Debug\3-1. Value of a String.csprojResolveAssemblyReference.cache
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\13.StringsAndTextProcessing\3-1. Value of a String\obj\Debug\_3_1.Value_of_a_String.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\13.StringsAndTextProcessing\3-1. Value of a String\obj\Debug\_3_1.Value_of_a_String.pdb

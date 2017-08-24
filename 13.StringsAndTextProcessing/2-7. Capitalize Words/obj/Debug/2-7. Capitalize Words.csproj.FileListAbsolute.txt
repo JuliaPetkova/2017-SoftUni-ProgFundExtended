@@ -1,0 +1,6 @@
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\13.StringsAndTextProcessing\2-7. Capitalize Words\bin\Debug\_2_7.Capitalize_Words.exe.config
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\13.StringsAndTextProcessing\2-7. Capitalize Words\bin\Debug\_2_7.Capitalize_Words.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\13.StringsAndTextProcessing\2-7. Capitalize Words\bin\Debug\_2_7.Capitalize_Words.pdb
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\13.StringsAndTextProcessing\2-7. Capitalize Words\obj\Debug\2-7. Capitalize Words.csprojResolveAssemblyReference.cache
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\13.StringsAndTextProcessing\2-7. Capitalize Words\obj\Debug\_2_7.Capitalize_Words.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\13.StringsAndTextProcessing\2-7. Capitalize Words\obj\Debug\_2_7.Capitalize_Words.pdb
