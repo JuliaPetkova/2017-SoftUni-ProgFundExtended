@@ -1,0 +1,6 @@
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\13.StringsAndTextProcessing\2-5. Points Counter\bin\Debug\_2_5.Points_Counter.exe.config
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\13.StringsAndTextProcessing\2-5. Points Counter\bin\Debug\_2_5.Points_Counter.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\13.StringsAndTextProcessing\2-5. Points Counter\bin\Debug\_2_5.Points_Counter.pdb
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\13.StringsAndTextProcessing\2-5. Points Counter\obj\Debug\2-5. Points Counter.csprojResolveAssemblyReference.cache
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\13.StringsAndTextProcessing\2-5. Points Counter\obj\Debug\_2_5.Points_Counter.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\13.StringsAndTextProcessing\2-5. Points Counter\obj\Debug\_2_5.Points_Counter.pdb

@@ -10,19 +10,19 @@ namespace _2_1.Find_the_Letter
     {
         static void Main(string[] args)
         {
-            string input = Console.ReadLine();
-            string[] search = Console.ReadLine().Split();
+            var input = Console.ReadLine();
+            var search = Console.ReadLine().Split();
 
             var letter = search[0];
-            int n = int.Parse(search[1]);
+            int occurrence = int.Parse(search[1]);
 
-            var index = -1;
+            int index = -1;
 
             do
             {
-                n--;
+                occurrence--;
                 index = input.IndexOf(letter, index + 1);
-            } while (index != -1 && n > 0);
+            } while (index != -1 && occurrence != 0);
 
             if (index != -1)
             {

@@ -14,10 +14,12 @@ namespace _2_2.Placeholders
 
             while (input != "end")
             {
-                var param = input.Split(new string[] { " -> " }, StringSplitOptions.RemoveEmptyEntries).ToArray();
+                var param = input.Split(new string[] { " -> " }
+                , StringSplitOptions.RemoveEmptyEntries).ToArray();
 
                 string text = param[0];
-                string[] itemToReplase = param[1].Split(new string[] { ", " }, StringSplitOptions.RemoveEmptyEntries).ToArray();
+                string[] itemToReplase = param[1].Split(new string[] { ", " }
+                , StringSplitOptions.RemoveEmptyEntries).ToArray();
 
                 for (int i = 0; i < itemToReplase.Length; i++)
                 {

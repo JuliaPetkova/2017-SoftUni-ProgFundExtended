@@ -32,10 +32,16 @@ namespace _2_3.JSON_Stringify
             List<Student> students = new List<Student>();
 
             string input = Console.ReadLine();
+
             int[] score = null;
+
             while (input != "stringify")
             {
-                var inpParams = input.Split(new[] { ' ', ':', '-', '>', ',' }, StringSplitOptions.RemoveEmptyEntries).ToArray();
+                //   "  ".ToCharArray() e също като    new[]{}  
+                //var inpParams = input.Split(new[] { ' ', ':', '-', '>', ',' }
+                //, StringSplitOptions.RemoveEmptyEntries).ToArray();
+
+                var inpParams = input.Split( " :->,".ToCharArray(), StringSplitOptions.RemoveEmptyEntries);
 
                 string name = inpParams[0];
                 int age = int.Parse(inpParams[1]);

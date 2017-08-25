@@ -14,15 +14,16 @@ namespace _2_7.Capitalize_Words
 
             while (input != "end")
             {
-                List<string> param = input.Split(new[] { '!', ' ', '?', '.', ',', ':' }
-                , StringSplitOptions.RemoveEmptyEntries).ToList();
+                //var param = input.Split("/\\!,?.:\"".ToCharArray(),StringSplitOptions.RemoveEmptyEntries);
 
+                string[] param = input.Split(new[] { ' ', ',', '.', '!', '?', '@', '#', '$', '%', '^', '&', '*', '(', ')', '-', '+', ';', ':' }
+                , StringSplitOptions.RemoveEmptyEntries).ToArray();
                 List<string> words = new List<string>();
 
                 foreach (var item in param)
                 {
-                   var items = item.Substring(0, 1).ToUpper() +
-                        (item.Substring(1, item.Length - 1)).ToLower();
+                    var items = item.Substring(0, 1).ToUpper() +
+                         (item.Substring(1, item.Length - 1)).ToLower();
 
                     words.Add(items);
                 }

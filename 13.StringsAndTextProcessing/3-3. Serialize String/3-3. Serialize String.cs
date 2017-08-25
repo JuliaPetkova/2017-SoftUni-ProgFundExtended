@@ -12,25 +12,25 @@ namespace _3_3.Serialize_String
         {
             var input = Console.ReadLine();
 
-            Dictionary<char, List<int>> dict = new Dictionary<char, List<int>>();
+            Dictionary<char, List<int>> parameters = new Dictionary<char, List<int>>();
 
             for (int i = 0; i < input.Length; i++)
             {
                 var letter = input[i];
                 var index = i;
 
-                if (!dict.ContainsKey(letter))
+                if (!parameters.ContainsKey(letter))
                 {
-                    dict.Add(letter, new List<int>());
-                    dict[letter].Add(index);
+                    parameters.Add(letter, new List<int>());
+                    parameters[letter].Add(index);
                 }
                 else
                 {
-                    dict[letter].Add(index);
+                    parameters[letter].Add(index);
                 }
             }
 
-            foreach (KeyValuePair<char, List<int>> item in dict)
+            foreach (KeyValuePair<char, List<int>> item in parameters)
             {
                 Console.WriteLine($"{item.Key}:" + string.Join("/", item.Value));
             }
