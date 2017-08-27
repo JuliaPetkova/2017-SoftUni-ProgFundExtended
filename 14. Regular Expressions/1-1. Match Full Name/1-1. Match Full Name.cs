@@ -11,16 +11,19 @@ namespace _1_1.Match_Full_Name
     {
         static void Main(string[] args)
         {
-            string patern = @"\+359([? |-])2\1\d{3}\1\d{4}\b";
-            string input = Console.ReadLine();
+            var pattern = @"\b[A-Z][a-z]+\s[A-Z][a-z]+";                      
 
-            MatchCollection matches = Regex.Matches(input, patern);
+            var input = Console.ReadLine();
 
-            string[] mat = matches.Cast<Match>().Select(match => match.Value.Trim()).ToArray();
+            MatchCollection matches = Regex.Matches(input, pattern);
 
-            Console.WriteLine(string.Join(", ", mat));
+            foreach (Match item in matches)
+            {
+                Console.Write(item.Value + " ");
+            }
 
-
+            Console.WriteLine();
+            //Ivan Ivanov Test Testov
         }
     }
 }

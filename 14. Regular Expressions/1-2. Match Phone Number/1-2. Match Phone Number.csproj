@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{1FFFA8CC-D1FE-41CF-B98B-A2B4923AAE87}</ProjectGuid>
+    <ProjectGuid>{77E290BE-E54F-4674-913E-A89770C9DD0A}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_1_1.Match_Phone_Number</RootNamespace>
-    <AssemblyName>_1_1.Match_Phone_Number</AssemblyName>
+    <RootNamespace>_1_2.Match_Phone_Number</RootNamespace>
+    <AssemblyName>_1_2.Match_Phone_Number</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -42,7 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="1-1. Match Phone Number.cs" />
+    <Compile Include="1-2. Match Phone Number.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

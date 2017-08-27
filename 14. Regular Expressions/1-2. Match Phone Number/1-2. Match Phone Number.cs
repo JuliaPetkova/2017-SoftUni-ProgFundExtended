@@ -1,26 +1,27 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Text.RegularExpressions;
 using System.Linq;
 using System.Text;
+using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 
-namespace _1_1.Match_Phone_Number
+namespace _1_2.Match_Phone_Number
 {
     class Program
     {
         static void Main(string[] args)
         {
-            string patern = @"\+359([? |-])2\1\d{3}\1\d{4}\b";
-            string input = Console.ReadLine();
+                        
+            var pattern = @"\+359([ -])2\1\d{3}\1\d{4}\b";
+            var input = Console.ReadLine();
 
-            MatchCollection matches = Regex.Matches(input, patern);
+            MatchCollection matches = Regex.Matches(input, pattern);
 
-            foreach (Match item in matches)
-            {
-                Console.WriteLine(item.Value, " ");
-            }         
+            var output = matches.Cast<Match>().Select(match => match.Value).ToArray();
 
+            Console.WriteLine(string.Join(", ", output));
+
+            //+359 2 222 2222, +359-2-222-2222
         }
     }
 }

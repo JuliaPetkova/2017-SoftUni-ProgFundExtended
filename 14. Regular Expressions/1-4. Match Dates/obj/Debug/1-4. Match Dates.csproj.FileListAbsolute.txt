@@ -1,0 +1,6 @@
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\14. Regular Expressions\1-4. Match Dates\bin\Debug\_1_4.Match_Dates.exe.config
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\14. Regular Expressions\1-4. Match Dates\bin\Debug\_1_4.Match_Dates.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\14. Regular Expressions\1-4. Match Dates\bin\Debug\_1_4.Match_Dates.pdb
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\14. Regular Expressions\1-4. Match Dates\obj\Debug\1-4. Match Dates.csprojResolveAssemblyReference.cache
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\14. Regular Expressions\1-4. Match Dates\obj\Debug\_1_4.Match_Dates.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\14. Regular Expressions\1-4. Match Dates\obj\Debug\_1_4.Match_Dates.pdb
