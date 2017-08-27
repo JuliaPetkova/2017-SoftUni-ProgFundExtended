@@ -1,0 +1,6 @@
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\13.StringsAndTextProcessing\3-6. Stateless\bin\Debug\_3_6.Stateless.exe.config
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\13.StringsAndTextProcessing\3-6. Stateless\bin\Debug\_3_6.Stateless.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\13.StringsAndTextProcessing\3-6. Stateless\bin\Debug\_3_6.Stateless.pdb
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\13.StringsAndTextProcessing\3-6. Stateless\obj\Debug\3-6. Stateless.csprojResolveAssemblyReference.cache
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\13.StringsAndTextProcessing\3-6. Stateless\obj\Debug\_3_6.Stateless.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\13.StringsAndTextProcessing\3-6. Stateless\obj\Debug\_3_6.Stateless.pdb

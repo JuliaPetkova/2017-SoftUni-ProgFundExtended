@@ -1,0 +1,6 @@
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\13.StringsAndTextProcessing\3-4. Deserialize String\bin\Debug\_3_4.Deserialize_String.exe.config
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\13.StringsAndTextProcessing\3-4. Deserialize String\bin\Debug\_3_4.Deserialize_String.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\13.StringsAndTextProcessing\3-4. Deserialize String\bin\Debug\_3_4.Deserialize_String.pdb
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\13.StringsAndTextProcessing\3-4. Deserialize String\obj\Debug\3-4. Deserialize String.csprojResolveAssemblyReference.cache
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\13.StringsAndTextProcessing\3-4. Deserialize String\obj\Debug\_3_4.Deserialize_String.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\13.StringsAndTextProcessing\3-4. Deserialize String\obj\Debug\_3_4.Deserialize_String.pdb

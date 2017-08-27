@@ -1,0 +1,5 @@
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\13.StringsAndTextProcessing\3-7. Pyramidic\bin\Debug\_3_7.Pyramidic.exe.config
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\13.StringsAndTextProcessing\3-7. Pyramidic\bin\Debug\_3_7.Pyramidic.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\13.StringsAndTextProcessing\3-7. Pyramidic\bin\Debug\_3_7.Pyramidic.pdb
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\13.StringsAndTextProcessing\3-7. Pyramidic\obj\Debug\_3_7.Pyramidic.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\13.StringsAndTextProcessing\3-7. Pyramidic\obj\Debug\_3_7.Pyramidic.pdb

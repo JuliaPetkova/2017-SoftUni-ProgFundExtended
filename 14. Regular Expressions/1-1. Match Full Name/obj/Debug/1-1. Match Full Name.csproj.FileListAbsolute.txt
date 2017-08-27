@@ -1,0 +1,6 @@
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\14. Regular Expressions\1-1. Match Full Name\bin\Debug\_1_1.Match_Full_Name.exe.config
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\14. Regular Expressions\1-1. Match Full Name\bin\Debug\_1_1.Match_Full_Name.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\14. Regular Expressions\1-1. Match Full Name\bin\Debug\_1_1.Match_Full_Name.pdb
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\14. Regular Expressions\1-1. Match Full Name\obj\Debug\1-1. Match Full Name.csprojResolveAssemblyReference.cache
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\14. Regular Expressions\1-1. Match Full Name\obj\Debug\_1_1.Match_Full_Name.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\14. Regular Expressions\1-1. Match Full Name\obj\Debug\_1_1.Match_Full_Name.pdb

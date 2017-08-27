@@ -1,0 +1,6 @@
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\13.StringsAndTextProcessing\3-2. Diamond Problem\bin\Debug\_3_2.Diamond_Problem.exe.config
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\13.StringsAndTextProcessing\3-2. Diamond Problem\bin\Debug\_3_2.Diamond_Problem.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\13.StringsAndTextProcessing\3-2. Diamond Problem\bin\Debug\_3_2.Diamond_Problem.pdb
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\13.StringsAndTextProcessing\3-2. Diamond Problem\obj\Debug\3-2. Diamond Problem.csprojResolveAssemblyReference.cache
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\13.StringsAndTextProcessing\3-2. Diamond Problem\obj\Debug\_3_2.Diamond_Problem.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\13.StringsAndTextProcessing\3-2. Diamond Problem\obj\Debug\_3_2.Diamond_Problem.pdb
