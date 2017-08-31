@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-5. Match Numbers", "1-5. 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-6. ReplaceTag", "1-6. ReplaceTag\1-6. ReplaceTag.csproj", "{B7E49E6E-79EE-4838-9577-2F2962ACAD2C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2-1. Cards", "2-1. Cards\2-1. Cards.csproj", "{7D67A69B-D324-4959-BC3A-49731F6305F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2-2. Word Encounter", "2-2. Word Encounter\2-2. Word Encounter.csproj", "{B2C2C5B8-DA06-4AA7-A1EE-011F4F529B90}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +49,14 @@ Global
 		{B7E49E6E-79EE-4838-9577-2F2962ACAD2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B7E49E6E-79EE-4838-9577-2F2962ACAD2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B7E49E6E-79EE-4838-9577-2F2962ACAD2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D67A69B-D324-4959-BC3A-49731F6305F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D67A69B-D324-4959-BC3A-49731F6305F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D67A69B-D324-4959-BC3A-49731F6305F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D67A69B-D324-4959-BC3A-49731F6305F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2C2C5B8-DA06-4AA7-A1EE-011F4F529B90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2C2C5B8-DA06-4AA7-A1EE-011F4F529B90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2C2C5B8-DA06-4AA7-A1EE-011F4F529B90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2C2C5B8-DA06-4AA7-A1EE-011F4F529B90}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

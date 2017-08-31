@@ -20,6 +20,7 @@ namespace _1_6.ReplaceTag
                 string replaced = Regex.Replace(input, pattern, replacement);
 
                 Console.WriteLine(replaced);
+
                 input = Console.ReadLine();
             }
 
