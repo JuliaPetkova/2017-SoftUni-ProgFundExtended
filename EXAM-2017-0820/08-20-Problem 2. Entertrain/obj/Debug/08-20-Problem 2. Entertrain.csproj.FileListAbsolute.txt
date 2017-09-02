@@ -1,0 +1,6 @@
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\EXAM-2017-0820\08-20-Problem 2. Entertrain\bin\Debug\_08_20_Problem_2.Entertrain.exe.config
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\EXAM-2017-0820\08-20-Problem 2. Entertrain\bin\Debug\_08_20_Problem_2.Entertrain.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\EXAM-2017-0820\08-20-Problem 2. Entertrain\bin\Debug\_08_20_Problem_2.Entertrain.pdb
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\EXAM-2017-0820\08-20-Problem 2. Entertrain\obj\Debug\08-20-Problem 2. Entertrain.csprojResolveAssemblyReference.cache
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\EXAM-2017-0820\08-20-Problem 2. Entertrain\obj\Debug\_08_20_Problem_2.Entertrain.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\EXAM-2017-0820\08-20-Problem 2. Entertrain\obj\Debug\_08_20_Problem_2.Entertrain.pdb

@@ -1,0 +1,6 @@
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\EXAM-2017-0820\08-20-Problem 4. Trainlands\bin\Debug\_08_20_Problem_4.Trainlands.exe.config
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\EXAM-2017-0820\08-20-Problem 4. Trainlands\bin\Debug\_08_20_Problem_4.Trainlands.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\EXAM-2017-0820\08-20-Problem 4. Trainlands\bin\Debug\_08_20_Problem_4.Trainlands.pdb
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\EXAM-2017-0820\08-20-Problem 4. Trainlands\obj\Debug\08-20-Problem 4. Trainlands.csprojResolveAssemblyReference.cache
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\EXAM-2017-0820\08-20-Problem 4. Trainlands\obj\Debug\_08_20_Problem_4.Trainlands.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\EXAM-2017-0820\08-20-Problem 4. Trainlands\obj\Debug\_08_20_Problem_4.Trainlands.pdb

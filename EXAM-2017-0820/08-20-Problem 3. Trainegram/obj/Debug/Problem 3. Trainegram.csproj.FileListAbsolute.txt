@@ -1,0 +1,6 @@
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\EXAM-2017-0820\Problem 3. Trainegram\bin\Debug\Problem_3.Trainegram.exe.config
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\EXAM-2017-0820\Problem 3. Trainegram\bin\Debug\Problem_3.Trainegram.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\EXAM-2017-0820\Problem 3. Trainegram\bin\Debug\Problem_3.Trainegram.pdb
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\EXAM-2017-0820\Problem 3. Trainegram\obj\Debug\Problem 3. Trainegram.csprojResolveAssemblyReference.cache
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\EXAM-2017-0820\Problem 3. Trainegram\obj\Debug\Problem_3.Trainegram.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\EXAM-2017-0820\Problem 3. Trainegram\obj\Debug\Problem_3.Trainegram.pdb
