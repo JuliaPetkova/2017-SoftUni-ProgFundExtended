@@ -1,0 +1,6 @@
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\14. Regular Expressions\lab\bin\Debug\lab.exe.config
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\14. Regular Expressions\lab\bin\Debug\lab.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\14. Regular Expressions\lab\bin\Debug\lab.pdb
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\14. Regular Expressions\lab\obj\Debug\lab.csprojResolveAssemblyReference.cache
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\14. Regular Expressions\lab\obj\Debug\lab.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\14. Regular Expressions\lab\obj\Debug\lab.pdb

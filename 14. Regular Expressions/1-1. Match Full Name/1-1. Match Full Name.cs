@@ -15,7 +15,7 @@ namespace _1_1.Match_Full_Name
 
             var input = Console.ReadLine();
 
-            MatchCollection matches = Regex.Matches(input, pattern);
+            var matches = Regex.Matches(input, pattern);
 
             foreach (Match item in matches)
             {

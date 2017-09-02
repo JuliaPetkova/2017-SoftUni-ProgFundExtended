@@ -1,0 +1,6 @@
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\14. Regular Expressions\2-6. Fish Statistics\bin\Debug\_2_6.Fish_Statistics.exe.config
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\14. Regular Expressions\2-6. Fish Statistics\bin\Debug\_2_6.Fish_Statistics.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\14. Regular Expressions\2-6. Fish Statistics\bin\Debug\_2_6.Fish_Statistics.pdb
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\14. Regular Expressions\2-6. Fish Statistics\obj\Debug\2-6. Fish Statistics.csprojResolveAssemblyReference.cache
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\14. Regular Expressions\2-6. Fish Statistics\obj\Debug\_2_6.Fish_Statistics.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\14. Regular Expressions\2-6. Fish Statistics\obj\Debug\_2_6.Fish_Statistics.pdb

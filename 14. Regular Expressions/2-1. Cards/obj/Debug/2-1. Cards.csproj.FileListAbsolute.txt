@@ -1,0 +1,6 @@
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\14. Regular Expressions\2-1. Cards\bin\Debug\_2_1.Cards.exe.config
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\14. Regular Expressions\2-1. Cards\bin\Debug\_2_1.Cards.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\14. Regular Expressions\2-1. Cards\bin\Debug\_2_1.Cards.pdb
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\14. Regular Expressions\2-1. Cards\obj\Debug\2-1. Cards.csprojResolveAssemblyReference.cache
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\14. Regular Expressions\2-1. Cards\obj\Debug\_2_1.Cards.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\14. Regular Expressions\2-1. Cards\obj\Debug\_2_1.Cards.pdb

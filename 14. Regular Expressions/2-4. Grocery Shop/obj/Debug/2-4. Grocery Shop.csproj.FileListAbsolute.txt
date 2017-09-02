@@ -1,0 +1,6 @@
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\14. Regular Expressions\2-4. Grocery Shop\bin\Debug\_2_4.Grocery_Shop.exe.config
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\14. Regular Expressions\2-4. Grocery Shop\bin\Debug\_2_4.Grocery_Shop.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\14. Regular Expressions\2-4. Grocery Shop\bin\Debug\_2_4.Grocery_Shop.pdb
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\14. Regular Expressions\2-4. Grocery Shop\obj\Debug\2-4. Grocery Shop.csprojResolveAssemblyReference.cache
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\14. Regular Expressions\2-4. Grocery Shop\obj\Debug\_2_4.Grocery_Shop.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\14. Regular Expressions\2-4. Grocery Shop\obj\Debug\_2_4.Grocery_Shop.pdb

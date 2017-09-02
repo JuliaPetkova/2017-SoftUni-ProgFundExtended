@@ -11,27 +11,20 @@ namespace _1_4.Match_Dates
     {
         static void Main(string[] args)
         {
-            // var pattern = @"\b(?<day>\d{2})([\/. -/])(?<month>[A-Z][a-z]+)\1(?<year>\d{4})\b";
-            // Groups[1] ==> separator    //day = Groups["day"]
+            string pattern = @"\b(?<day>[0-9]{2})(\/|-|.)(?<month>[A-Z][a-z]{2})\1(?<year>[0-9]{4})\b";
+                       
+            string input = Console.ReadLine();
 
-            var pattern = @"\b(\d{2})([\/. -/])([A-Z][a-z]+)\2(\d{4})\b";
+            MatchCollection datesMatches = Regex.Matches(input, pattern);
 
-            var input = Console.ReadLine();
-
-            MatchCollection matches = Regex.Matches(input, pattern);
-
-            foreach (Match item in matches)
+            foreach (Match date in datesMatches)
             {
-                var day = item.Groups[1].Value;             // var day = item.Groups["day"].Value;
+                string day = date.Groups["day"].Value;
+                string month = date.Groups["month"].Value;
+                string year = date.Groups["year"].Value;
 
-                var month = item.Groups[3].Value;
-                var year = item.Groups[4].Value;
+                Console.WriteLine("Day: {0}, Month: {1}, Year: {2}", day, month, year);
 
-                Console.WriteLine($"Day: {day}, Month: {month}, Year: {year}");
-
-                // Day: 13, Month: Jul, Year: 1928
-                //Day: 10, Month: Nov, Year: 1934
-                //Day: 25, Month: Dec, Year: 1937
             }
         }
     }

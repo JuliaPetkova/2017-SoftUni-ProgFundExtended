@@ -1,0 +1,6 @@
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\14. Regular Expressions\2-5. SoftUni Messages\bin\Debug\_2_5.SoftUni_Messages.exe.config
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\14. Regular Expressions\2-5. SoftUni Messages\bin\Debug\_2_5.SoftUni_Messages.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\14. Regular Expressions\2-5. SoftUni Messages\bin\Debug\_2_5.SoftUni_Messages.pdb
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\14. Regular Expressions\2-5. SoftUni Messages\obj\Debug\2-5. SoftUni Messages.csprojResolveAssemblyReference.cache
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\14. Regular Expressions\2-5. SoftUni Messages\obj\Debug\_2_5.SoftUni_Messages.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\14. Regular Expressions\2-5. SoftUni Messages\obj\Debug\_2_5.SoftUni_Messages.pdb

@@ -5,23 +5,20 @@ using System.Text;
 using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 
-namespace _1_2.Match_Phone_Number
+namespace _2_1.Cards
 {
     class Program
     {
         static void Main(string[] args)
         {
-                        
-            var pattern = @"\+359([ -])2\1\d{3}\1\d{4}\b";
             var input = Console.ReadLine();
+            var pattern = @"(?<=[SHDC]|^)([2-9JQKA]|10)[SHDC]";
 
             var matches = Regex.Matches(input, pattern);
 
-            var output = matches.Cast<Match>().Select(match => match.Value).ToArray();
+            string[] output = matches.Cast<Match>().Select(card=>card.Value).ToArray();
 
             Console.WriteLine(string.Join(", ", output));
-
-            //+359 2 222 2222, +359-2-222-2222
         }
     }
 }

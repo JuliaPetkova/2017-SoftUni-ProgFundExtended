@@ -1,0 +1,6 @@
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\14. Regular Expressions\2-3. Booming Cannon\bin\Debug\_2_3.Booming_Cannon.exe.config
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\14. Regular Expressions\2-3. Booming Cannon\bin\Debug\_2_3.Booming_Cannon.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\14. Regular Expressions\2-3. Booming Cannon\bin\Debug\_2_3.Booming_Cannon.pdb
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\14. Regular Expressions\2-3. Booming Cannon\obj\Debug\2-3. Booming Cannon.csprojResolveAssemblyReference.cache
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\14. Regular Expressions\2-3. Booming Cannon\obj\Debug\_2_3.Booming_Cannon.exe
+D:\C# Programming Fundamentals\2017-SoftUni-ProgFundExtended\14. Regular Expressions\2-3. Booming Cannon\obj\Debug\_2_3.Booming_Cannon.pdb
